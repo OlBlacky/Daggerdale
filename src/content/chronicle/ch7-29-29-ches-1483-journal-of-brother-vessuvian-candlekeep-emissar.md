@@ -8,7 +8,7 @@ order: 29
 ## The Gargoyles and the Worms
 
 I won't dwell too much on the specific battle that took place on the
-morning of the 29^th^, as many others have already done so, and probably
+morning of the 29<sup>th</sup>, as many others have already done so, and probably
 with more authority than me. For I ran as soon as the rocks started
 falling from the sky and didn't look back when I heard the ground erupt,
 and the purple worms emerge to cause so much mayhem. Suffice it to say,
@@ -282,7 +282,7 @@ Chrysalis performed at this time;
 
 That and a hundred other things I have forgotten or never knew. The
 point of this list is to make our reader understand one thing; that by
-dinner time of the 29^th^ day of Ches in the year 1483 DR, Chrysalis was
+dinner time of the 29<sup>th</sup> day of Ches in the year 1483 DR, Chrysalis was
 spent. They had done a years' battle in ten days, and retired to a
 well-earned rest.
 

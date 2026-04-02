@@ -63,7 +63,7 @@ clean Middlemen.
 
 ## Elizabeth Miner
 
-Elizabeth came on her own early on the morning of the 21^st^ of Mpnth.
+Elizabeth came on her own early on the morning of the 21<sup>st</sup> of Mpnth.
 She insisted on speaking to me alone, and my ill-timed passing through
 the parlour eliminated any reasonable excuse to not meet with her. She
 is as respectable as her class allows; she has a clean but old dress and

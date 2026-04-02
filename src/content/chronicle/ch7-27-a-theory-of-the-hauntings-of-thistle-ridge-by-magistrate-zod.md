@@ -38,7 +38,7 @@ mercurial and capricious.
 
 ![A drawing of a knight holding a spear and shield Description
 automatically
-generated](/Daggerdale/images/chapter7/image35.jpeg)I was attached to the 18^th^ Company 1^st^
+generated](/Daggerdale/images/chapter7/image35.jpeg)I was attached to the 18<sup>th</sup> Company 1<sup>st</sup>
 Platoon, "Task Masters". This is the Command Platoon of the reserve
 company, and we were led by the company captain himself, Dexter Broad (I
 have included a sketch of him to the side), a stout man from the eastern
@@ -121,7 +121,7 @@ hand, as she wrote, sent, and received all messages herself, and she
 thought most small matters worth reporting to me. Her sense of duty was
 admirable, and her hand a delight to read. I have the last message she
 sent to me memorized. It was her usual post-Compline message, this from
-the 20^th^;
+the 20<sup>th</sup>;
 
 > "All's well. Large caravan from Hillsfar here tonight. They are not
 > unpacking to trade with us, and so should make your gates by Vespers
@@ -149,7 +149,7 @@ by now. I was instructed by the Bishop himself to send scouts to Thistle
 Ridge right away, which I did.
 
 "We had a competent garrison in those days, and four very capable
-foresters which we sent out before the blessed sunrise of the 22^nd^. By
+foresters which we sent out before the blessed sunrise of the 22<sup>nd</sup>. By
 Sext, one came back with an early report that they could see smoke
 rising from many smouldering fires in the distance on the Ridge, and by
 nightfall, the other three returned with news that portions of the wall
@@ -159,9 +159,9 @@ from without the walls. They didn't enter the newly made ruin, their
 pragmatism outweighing the impetuous bravery of youth, and returned to
 us with no further intelligence.
 
-"On the 23^rd^ our garrison was reinforced by the remaining platoons
-from the 18^th^ Company to stand our walls, and two platoons from the
-7^th^ to "recon Thistle Ridge in force". The latter did so in good
+"On the 23<sup>rd</sup> our garrison was reinforced by the remaining platoons
+from the 18<sup>th</sup> Company to stand our walls, and two platoons from the
+7<sup>th</sup> to "recon Thistle Ridge in force". The latter did so in good
 order, at first, their Captain deploying ¼ of their force as a feint
 along the river, while the remainder, leaving their horses, crept into
 the ruin through myriad breaches in the walls. He engaged in a
@@ -182,7 +182,7 @@ remainder of the command element heard the end of their brothers-in-arms
 through terrifying screams and otherworldly horror. The sergeants
 mustered all that remained of the two platoons (they were exactly eight
 men, one captain and one chaplain short), and withdrew the ruin. The
-senior of the two sergeants explained to me on the 24^th^ when they
+senior of the two sergeants explained to me on the 24<sup>th</sup> when they
 returned that he thought the better of lingering in a place crawling
 with goblins, and with unknown shadowy enemies to account for besides.
 He was right, and again, I salute his pragmatism.
@@ -199,7 +199,7 @@ dragged off their dead, though dead goblins and some bugbears lay
 rotting about the ruin.
 
 "A host of goblins had crossed the river at some point before the
-21^st^, and they had blocked any attempt by the people of Thistle Ridge
+21<sup>st</sup>, and they had blocked any attempt by the people of Thistle Ridge
 to flee. Many brutal scenes of flight-cut-short were discovered by our
 rangers, all of whom confirm that they had never witnessed evidence of
 such a comprehensive slaughter in all their days, most especially by
@@ -960,7 +960,7 @@ Until we meet again, my sister, all my love,
 
 AA
 
-27^th^ of SetMoon, 3,540 MC
+27<sup>th</sup> of SetMoon, 3,540 MC
 
 Ha isn't that fun! I don't know what day it is now in our calendar, but
 that's theirs!
@@ -972,7 +972,7 @@ For General Thunderstorm, Bishop Whitegate and Mayor Cassimar
 
 **Plains** -- Two nearly-battalion-strength units manoeuvring WNW 30mi
 and WSW 35mi from the Rockline. Bearing MLGNTs banners. Some
-low-intensity skirmishes with the 3^rd^ Co suggests these are green
+low-intensity skirmishes with the 3<sup>rd</sup> Co suggests these are green
 battalions.
 
 **Greyhame Mtn** -- Scouts report possible tribe of gargoyles have taken
@@ -1003,7 +1003,7 @@ Radiance**
 
 For General Thunderstorm, Bishop Whitegate and Mayor Cassimar
 
-**Plains** -- First clash between the 3^rd^ Co and MLGT's forces WNW
+**Plains** -- First clash between the 3<sup>rd</sup> Co and MLGT's forces WNW
 25mi from the Rockline. 4 killed in action, but company-strength recon
 element repelled.
 

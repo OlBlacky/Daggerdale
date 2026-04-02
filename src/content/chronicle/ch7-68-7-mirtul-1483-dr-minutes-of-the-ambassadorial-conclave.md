@@ -71,7 +71,7 @@ describe. I will stick to what Monarch has asked me to record.
 Here is the short list of things she said I didn't need to write down,
 because Lucan and Jasper can't put down pens even when it's time to pick
 up a blade and practice. She gave the full reporting of all her
-activities since the 19^th^ of Ches. This is a date less than fifty days
+activities since the 19<sup>th</sup> of Ches. This is a date less than fifty days
 past, yet the list sounded like it might take years to accomplish;
 
 - Forming team Chrysalis

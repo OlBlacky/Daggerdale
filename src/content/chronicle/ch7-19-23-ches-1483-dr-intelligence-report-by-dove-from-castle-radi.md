@@ -7,7 +7,7 @@ order: 19
 
 **Plains** -- 2 nearly-battalion-strength units manoeuvring WNW 30mi and
 WSW 35mi from the Rockline. Bearing MLGNTs banners. Some low-intensity
-skirmishes with the 3^rd^ Co suggests these are green battalions.
+skirmishes with the 3<sup>rd</sup> Co suggests these are green battalions.
 
 **Greyhame Mtn** -- Scouts report possible tribe of gargoyles have taken
 roost here. First known sightings of such creatures in these parts. Very

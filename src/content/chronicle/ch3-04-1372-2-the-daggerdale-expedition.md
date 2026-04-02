@@ -363,7 +363,7 @@ Also traveling with him is his wife, Medea Rowan, and their two sons.
 > seen the reports, he is said to have fought poorly, seeming to welcome
 > death, and reunification with his sons, who were the last of his line.
 > I have been outside his small mausoleum, and can confirm that he died
-> Flamerule 20^th^, 1374. With that, the Cormaeril line ended, as well
+> Flamerule 20<sup>th</sup>, 1374. With that, the Cormaeril line ended, as well
 > as their claims to Daggerdale. This is all fairly common lore in the
 > dale.
 >
@@ -741,7 +741,7 @@ The exodus back to Shadowdale was not eventless. Maturin had his hands
 full tending to the failing health of the liberated men, and despite his
 best care, many could not survive the dangerous travel home.
 
-On the night of the 19^th^, the 2^nd^, 3^rd^ and 4^th^ companies of Fist
+On the night of the 19<sup>th</sup>, the 2<sup>nd</sup>, 3<sup>rd</sup> and 4<sup>th</sup> companies of Fist
 caught up with the exodus at Liberty Hill (it wasn't called that yet, of
 course), and though losses were great for both sides, the Fist did flee
 the field of battle, and the liberation of those slaves was complete. Of

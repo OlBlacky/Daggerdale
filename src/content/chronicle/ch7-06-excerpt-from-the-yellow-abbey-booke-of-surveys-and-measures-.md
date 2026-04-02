@@ -16,7 +16,7 @@ communications and for next-day reinforcement if needed.*
 
 *However, the origin of the settlement has nothing to do with trade,
 though this did attract some later migrants, which I'll discuss shortly.
-The original settlement dates to before the 13^th^ century, though none
+The original settlement dates to before the 13<sup>th</sup> century, though none
 now living know when exactly. The Thistle Family, who as I understand it
 take their name from the Ridge, and not the other way 'round, have lived
 here for more than a century. They are private people, who both give and
@@ -73,10 +73,10 @@ clerk of local birth, one Daphne Dale (an unmarried girl).
           7th Sun Blade Bright Spears, 4th Platoon; understrength
 Platoon of 3 Squads, under command of Lt. Tergus Clarandal, aged 39. Lt.
 Clarandal is an accomplished fighter of several campaigns, having risen
-to Sgt in the 2^nd^ Company, Mountaineers over five Terms of Service.
+to Sgt in the 2<sup>nd</sup> Company, Mountaineers over five Terms of Service.
 
           Militia is robust, and is lead by Cpt Claudius Clarandal, of
-the 3^rd^ Company, Mountaineers (Sgt, retired). Militia is one of the
+the 3<sup>rd</sup> Company, Mountaineers (Sgt, retired). Militia is one of the
 largest per capita, at 106 capable men and women, who undergo some of
 the best training in the dale. Claudius, like his brother, did five
 Terms of Service.
@@ -262,7 +262,7 @@ settlement.
 **Artisans' Hall** -- Another large Sembian building with a cosmopolitan
 purpose, the Artisans' Guild of the farm owns and operates this
 facility. The main floor is a workshop used in the training of stone
-mason's apprentices, but the 2^nd^ floor sees much more traffic. This
+mason's apprentices, but the 2<sup>nd</sup> floor sees much more traffic. This
 floor is a large public house, complete with kitchens, a taproom, a
 stage (with live music a few nights every tenday), and a busy bar. It
 must be admitted that the best wine in the Dale is vinted at Thistle

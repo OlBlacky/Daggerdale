@@ -20,7 +20,7 @@ Accounting of the Clergy, 1480 Edition), aged 41, 4 clerks in Rotation.
 
 **Military**
 
-          7th Sun Blade Bright Spears, 1^st^ & 2^nd^ Platoons, under
+          7th Sun Blade Bright Spears, 1<sup>st</sup> & 2<sup>nd</sup> Platoons, under
 command of Lt. Maddy Riverstone, aged 36.
 
           Militia above-strength at 60 men and women in good order, more
@@ -53,7 +53,7 @@ settlement a little over a mile away from the main village. There are 29
 people here plus a platoon of Sun Blades. The village sits on a small
 knoll in an elbow of the Tesh, and overlooks both the river and the road
 which passes by, some 300 yards to the north. There is a stone tower
-here and a barracks for an entire company of Sun Blades, and the 1^st^
+here and a barracks for an entire company of Sun Blades, and the 1<sup>st</sup>
 platoon is usually stationed here; the first real defenders on the
 eastern edge of Daggerdale.
 
@@ -68,7 +68,7 @@ dwarf-laid fortress that was built between 1441-1465. It has been built
 completely over a small island, and stands 20' or more from the surface
 of the river in most places. Fortified bridges on the east and west side
 secure entry and egress, and there is always a significant body of the
-2^nd^ platoon on duty here, as well as a number of militia. The only
+2<sup>nd</sup> platoon on duty here, as well as a number of militia. The only
 day-to-day activities that take place at the castle for most residents
 are services for Amaunator, which many residents attend.
 

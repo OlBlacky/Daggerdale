@@ -150,7 +150,7 @@ The last bit of news was the hardest; trolls and Greengrass. The best
 celebration-day of the year in our dale will be spent for our heroes in
 a desperate battle against evil.
 
-As I write this, it is early in the morning of the 30^th^, and Chrysalis
+As I write this, it is early in the morning of the 30<sup>th</sup>, and Chrysalis
 has a very hard decision to make.
 
 "What do we do next?"
@@ -159,7 +159,7 @@ Sanduskin has brought the following gifts, to help you;
 
 - 4 Vails of Oil of Revelation
 
-- Scrolls (all at 5^th^ level)
+- Scrolls (all at 5<sup>th</sup> level)
 
   - Sleep (x3)
 

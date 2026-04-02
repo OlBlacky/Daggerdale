@@ -39,7 +39,7 @@ of their support. Artorias was ready to charge off with Gale, saying
 that he had everything he needed, except a devil to destroy.
 
 We did procure and order up the supplies and weapons we'd need, to the
-best of our reconning, and made arrangements to leave on the 24^th^, as
+best of our reconning, and made arrangements to leave on the 24<sup>th</sup>, as
 early as possible. We made fast friends with Sir Simon Whitmore, who
 would accompany us along with a half-dozen riders to Fergy's Hole. I
 half-expected Gale and Artorias to be gone when I got back to
@@ -380,7 +380,7 @@ entrance to Kahlmadrid is thoroughly closed.
 
 With the noise likely to draw attention, we decided that, despite our
 fatigue, we'd have to keep moving. We marched all night, and found
-ourselves back at Fergy's Hole mid-day on the 29^th^.
+ourselves back at Fergy's Hole mid-day on the 29<sup>th</sup>.
 ![](/Daggerdale/images/chapter7-begins/image14.jpeg)
 
 The Devil Azbael

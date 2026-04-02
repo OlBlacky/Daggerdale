@@ -89,13 +89,13 @@ the efforts of their struggling kingdom through their professions. This
 group of skilled dwarves is helping to forge a solid financial
 relationship between Tethyamar and the Dales, as well as offering the
 most significant cultural exchange in the Dale since the Zhent
-occupations of the 14^th^ century.
+occupations of the 14<sup>th</sup> century.
 
 ## Brief and Recent History of Tethyamar
 
 For the origins of the mines and history before 1364 DR, much greater
 works exist that I will not reproduce here. My account will begin with
-the Zhent Occupation of the dale in the 14^th^ century.
+the Zhent Occupation of the dale in the 14<sup>th</sup> century.
 
 During the Zhent occupation of Daggerfalls the enigmatic man known as
 Thagdul found the East Gate of Tethyamar. His motivations for this

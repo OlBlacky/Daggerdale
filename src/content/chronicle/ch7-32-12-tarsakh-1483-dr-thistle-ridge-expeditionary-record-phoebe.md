@@ -1,5 +1,5 @@
 ---
-title: "12 Tarsakh, 1483 DR - Thistle Ridge Expeditionary Record -- Phoebe Birchgrove, Sgt. III, 7^th^ Co. 4^th^ Plt, Bright Spears, Aid de Camp for Lt. I Forge Farmountain"
+title: "12 Tarsakh, 1483 DR - Thistle Ridge Expeditionary Record -- Phoebe Birchgrove, Sgt. III, 7th Co. 4th Plt, Bright Spears, Aid de Camp for Lt. I Forge Farmountain"
 chapter: 7
 chapterTitle: "Chapter Seven"
 order: 32
@@ -17,7 +17,7 @@ platoons nearby. Assembled were the following;
 - Chrysalis, with it's five members, a wagon and pony, a riding dog for
   Mrs. Thickwickle and a fine Lantern Hound
 
-- 7^th^ Company 4^th^ Platoon Bright Spears, with the following;
+- 7<sup>th</sup> Company 4<sup>th</sup> Platoon Bright Spears, with the following;
 
   - Command
 
@@ -45,7 +45,7 @@ platoons nearby. Assembled were the following;
 
   - Third Squad -- Foresters
 
-    - Sgt. I Illya Elderbough (a Chauntean from Gribbons', Ranger 1^st^
+    - Sgt. I Illya Elderbough (a Chauntean from Gribbons', Ranger 1<sup>st</sup>
       Class)
 
     - 3 Foresters (Women)
@@ -55,7 +55,7 @@ platoons nearby. Assembled were the following;
 
   - Fourth Squad -- Reserve
 
-    - Sgt. III Kelya Cordoza (a Vaasan, Ranger 2^nd^ Class)
+    - Sgt. III Kelya Cordoza (a Vaasan, Ranger 2<sup>nd</sup> Class)
 
     - 3 Spearmen
 
@@ -69,7 +69,7 @@ platoons nearby. Assembled were the following;
 
     - 2 reserve Comyrearn Chargers
 
-- Free Defense League 14^th^ Company 1^st^ Platoon Dawnshields
+- Free Defense League 14<sup>th</sup> Company 1<sup>st</sup> Platoon Dawnshields
 
   - Command
 
@@ -156,14 +156,14 @@ hands!"*
 
 Assembled with us this morning were many good allies and friends. Most
 of the eoldermen of Gribbons were in attendance with their families, as
-well as all of the 1^st^ platoon of Sun Blades and some of the 2^nd^
+well as all of the 1<sup>st</sup> platoon of Sun Blades and some of the 2<sup>nd</sup>
 that were off-duty this morning. Mayor Winters was here as well as
 Magistrate Saddler. There were also two dozen halflings, which represent
 I later learned the entirety of that population from Gribbons, and they
 were the first ones stirring in the morning. Before even the Magistrates
 were looking for the first grey signs of sunrise, the small folk
 (including our own Cook and her mother, and the Newharvest girls from
-our 4^th^ squad) were stoking fires, setting pots and kettles and the
+our 4<sup>th</sup> squad) were stoking fires, setting pots and kettles and the
 large picnic tables that had been brought for this purpose.
 
 Us large folk that know First Breakfast to be a celebration for the
@@ -233,7 +233,7 @@ Farm, but with our heavy train, it took us more than 2 hours just to get
 everyone to the top of the switchback road that has been maintained for
 this purpose. Seeing the slow pace of advance, Chrysalis set off ahead
 of us to recon the path and the farm itself, accompanied by Lt.
-Riverstone (1^st^ Company) and 4 of her Foresters. I heard that their
+Riverstone (1<sup>st</sup> Company) and 4 of her Foresters. I heard that their
 journey was uneventful, but that they found something troubling at the
 farm. What this is we haven't yet been told, but Lt. Farmountain assures
 me that it is nothing we aren't prepared for.

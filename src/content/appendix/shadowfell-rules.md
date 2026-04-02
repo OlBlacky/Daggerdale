@@ -45,41 +45,41 @@ and different natures to varying degrees;
 
 - Divine light sources work as follows
 
-  - Less than 5^th^ level does not function
+  - Less than 5<sup>th</sup> level does not function
 
-  - 5^th^ level function like mundane light sources
+  - 5<sup>th</sup> level function like mundane light sources
 
 - Divine sources of fire/heat work as follows
 
-  - Less than 5^th^ level does not function
+  - Less than 5<sup>th</sup> level does not function
 
-  - 5^th^ level function like mundane fire/heat sources
+  - 5<sup>th</sup> level function like mundane fire/heat sources
 
 - Arcane light sources work as follows
 
-  - 1-4^th^ level function like mundane sources
+  - 1-4<sup>th</sup> level function like mundane sources
 
-  - 5^th^ level function normally
+  - 5<sup>th</sup> level function normally
 
 - Arcane fire/heat works as follows
 
-  - 1-4^th^ level function like mundane sources
+  - 1-4<sup>th</sup> level function like mundane sources
 
-  - 5^th^ level function normally
+  - 5<sup>th</sup> level function normally
 
 - Mundane healing works at ½ effect
 
 - Divine sources of healing work as follows
 
-  - 1-4^th^ level heal with ½ effect
+  - 1-4<sup>th</sup> level heal with ½ effect
 
-  - 5^th^ level heals with -1 per die or level
+  - 5<sup>th</sup> level heals with -1 per die or level
 
 - Arcane sources of healing work as follows
 
-  - 1-4^th^ level heal with -1 per die or level
+  - 1-4<sup>th</sup> level heal with -1 per die or level
 
-  - 5^th^ level works normally
+  - 5<sup>th</sup> level works normally
 
 []{#_Toc206093730 .anchor}
 

@@ -23,7 +23,7 @@ The edition that you are reading was compiled by commission from
 Candlekeep, last winter. There were much greater works of writing that I
 desired to access in the Keep, and their price for this access was a
 compilation of primary sources regarding beholder activity on the Sword
-Coast in the late 14^th^ century DR. My handler at the Keep knew that I
+Coast in the late 14<sup>th</sup> century DR. My handler at the Keep knew that I
 sometimes dealt with the deranged Waterdhavian elf, Steele, around whom
 many parts of this story are woven. Indeed, this very same character
 will appear in many of the primary sources you are about to enjoy.
@@ -56,8 +56,8 @@ why Steele had it all together and ready to be flung at my person. The
 most recent notes were from 1481, and while centred mostly on distant
 Daggerdale, some names and locations were circled in red with angry
 annotations in Silver Elven, no doubt Steele's own hand. Linkages
-between the beholder and drow schemes in the Sword Coast in the 14^th^
-century were now being seen in Daggerdale in the 15^th^. I envy the
+between the beholder and drow schemes in the Sword Coast in the 14<sup>th</sup>
+century were now being seen in Daggerdale in the 15<sup>th</sup>. I envy the
 Long-Lived races their ability to plan over decades and centuries, and
 admit that I find their machinations mind-boggling in their scope.
 
@@ -82,8 +82,8 @@ reproduced here in its entirety. It was heartwarming to see that she too
 was a rogue in her own Order, and that she lived a full life with
 meaningful friendships, and even love. I in fact read her report before
 anything else, and this changed the nature of my investigation from
-beholders, drow, and Zhents on the Sword Coast in the 14^th^ century, to
-the same and other matters in Daggerdale in the 15^th^. The latter is
+beholders, drow, and Zhents on the Sword Coast in the 14<sup>th</sup> century, to
+the same and other matters in Daggerdale in the 15<sup>th</sup>. The latter is
 more interesting given our proximity to it, the value of the source
 documents from that era, and through my declared bias for the writings
 of an amazing woman.
@@ -128,5 +128,5 @@ At your service,
 
 Grafton Fitzdecker
 
-1^st^ Alturiak, 1483 DR
+1<sup>st</sup> Alturiak, 1483 DR
 

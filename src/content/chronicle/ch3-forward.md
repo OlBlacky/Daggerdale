@@ -5,7 +5,7 @@ chapterTitle: "Chapter Three"
 order: 0
 ---
 
-Wherein the players and events of the 14^th^ century that affected
+Wherein the players and events of the 14<sup>th</sup> century that affected
 present-dale Daggerdale are neatly inventoried.
 
 You'll notice, fair reader, that I have omitted Chapters one and two

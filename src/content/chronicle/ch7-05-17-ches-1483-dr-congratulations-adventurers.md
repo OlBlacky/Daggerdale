@@ -66,7 +66,7 @@ A score of 15 is possible for this Measure.
 ## The Intelligence Measure
 
 Each Company will be required to produce an Intelligence Report by the
-28^th^ of Ches, to be submitted in writing to the Master Adjudicant at
+28<sup>th</sup> of Ches, to be submitted in writing to the Master Adjudicant at
 Goverors' Hall, by 5 bells of the evening. The Intelligence Measure will
 be scored by the Adjudicating Committee in private, and each will be
 assigned a score of 3, 6, 9, 12 or 15 points, based on the relative

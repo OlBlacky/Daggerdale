@@ -5,7 +5,7 @@ chapterTitle: "Chapter Seven"
 order: 58
 ---
 
-*Transcribed by Phoebe Birchgrove, Sgt. III, 7^th^ Co. 4^th^ Plt, Bright
+*Transcribed by Phoebe Birchgrove, Sgt. III, 7<sup>th</sup> Co. 4<sup>th</sup> Plt, Bright
 Spears, Aid de Camp for Lt. I Forge Farmountain*
 
 The first thing we noticed as we mounted the landing to the third floor

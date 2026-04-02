@@ -98,7 +98,7 @@ includes;
 >
 > The "Ambassador from Cormanthor" is a customary position of old in the
 > Dale. There is no longer a unified organization of the Green Elves of
-> Cormanthor since the 14^th^ Century, post Spell-Plague.
+> Cormanthor since the 14<sup>th</sup> Century, post Spell-Plague.
 >
 > -GFD
 
@@ -146,7 +146,7 @@ the head of the Sun Blades.
 
 The first Consul of the Governors' Assembly, elected by unanimous
 agreement by all Voting Signatories, shall be Cpt. Kesh Oakdale (ret.)
-late of the 16^th^ Company Sunblades, of Dwimmerholme Farm, whose first
+late of the 16<sup>th</sup> Company Sunblades, of Dwimmerholme Farm, whose first
 term shall commence on 15 Elesias, 1482 DR, and end on Shieldmeet, 1484
 DR.
 

@@ -79,7 +79,7 @@ their refined howling.
 ### ![Muscular Mastiff Dog Roar (1) by ZENART07 on DeviantArt](/Daggerdale/images/chapter7/image14.jpeg)Deepingdale Mastiff
 
 This is the largest of the specialized working dogs in the dales, this
-breed originating in the militia of Deepingdale in the 13^th^ century.
+breed originating in the militia of Deepingdale in the 13<sup>th</sup> century.
 At over 200 lbs, they are the largest domesticated dogs in the region,
 and are the best fighters.
 

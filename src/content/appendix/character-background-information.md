@@ -328,7 +328,7 @@ m'pha (that's 'road') in dour Gheldaneth.*
 
 *AA*
 
-*27^th^ of SetMoon, 3,540 MC*
+*27<sup>th</sup> of SetMoon, 3,540 MC*
 
 *Ha isn't that fun! I don't know what day it is now in our calendar, but
 that's theirs!*

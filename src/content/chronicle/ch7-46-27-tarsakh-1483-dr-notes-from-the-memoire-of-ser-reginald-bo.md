@@ -5,7 +5,7 @@ chapterTitle: "Chapter Seven"
 order: 46
 ---
 
-Then came the morning of the 27^th^ of Tarsakh; a very light but very
+Then came the morning of the 27<sup>th</sup> of Tarsakh; a very light but very
 late snowfall gave a nice contrast to the budding trees and forest
 floor, but most of all to the smell of fresh bread. Yes, indeed! The
 bread oven in what is now Ambershields Monastery was fired up for the
@@ -36,7 +36,7 @@ foundations of several other buildings around the farm.
 It is worth noting our numbers on this late Tarsakh morning. We are the
 following;
 
-- Free Defense League 14^th^ Company 1^st^ Platoon Dawnshields (20 men
+- Free Defense League 14<sup>th</sup> Company 1<sup>st</sup> Platoon Dawnshields (20 men
   and myself)
 
 - Ridge and River Reclamation Company (5 staff including Chief Engineer

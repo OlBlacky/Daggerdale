@@ -80,7 +80,7 @@ servitude.
 
 The caravan arrived in the Falls a few days ago, and Fiona attempted to
 escape her bonds again. She has been sleeping in alleyways for a couple
-of nights but was found this morning (the 19^th^) by some of the men
+of nights but was found this morning (the 19<sup>th</sup>) by some of the men
 from Charity, and brought before Ferguson. Now, having crossed him and
 his laws on multiple occasions, and being brought before a clearly-drunk
 and rapacious young noble, she feared the worst sort of treatment. But
@@ -174,7 +174,7 @@ History;
 > to pass within viewing distance of the monument. This gesture was
 > meant to exemplify the lack of need for violence required from the
 > allies of elves to achieve what they so
-> desired.[^\[7\]^](https://forgottenrealms.fandom.com/wiki/Standing_Stone#cite_note-FRCS3e-124-7)*
+> desired.[<sup>\[7\]</sup>](https://forgottenrealms.fandom.com/wiki/Standing_Stone#cite_note-FRCS3e-124-7)*
 >
 > *In the 900s [DR](https://forgottenrealms.fandom.com/wiki/DR), the
 > region around the Standing Stone succumbed to more frequent and
@@ -183,7 +183,7 @@ History;
 > led from a nearby overlook. He and his forces were thwarted by a group
 > of [mages](https://forgottenrealms.fandom.com/wiki/Mage) assembled
 > from merchants of the nearby, rapidly growing nation of
-> Sembia.[^\[8\]^](https://forgottenrealms.fandom.com/wiki/Standing_Stone#cite_note-VGtD-190-8)*
+> Sembia.[<sup>\[8\]</sup>](https://forgottenrealms.fandom.com/wiki/Standing_Stone#cite_note-VGtD-190-8)*
 >
 > *On [Flamerule
 > 21](https://forgottenrealms.fandom.com/wiki/Flamerule_21) [1374
@@ -191,12 +191,12 @@ History;
 > the [fey\'ri](https://forgottenrealms.fandom.com/wiki/Fey%27ri) of [House
 > Dlardrageth](https://forgottenrealms.fandom.com/wiki/House_Dlardrageth) destroyed
 > the Standing Stone after a decisive battle against the army
-> of [Hillsfar](https://forgottenrealms.fandom.com/wiki/Hillsfar).[^\[2\]^](https://forgottenrealms.fandom.com/wiki/Standing_Stone#cite_note-GHotR-p156-2)*
+> of [Hillsfar](https://forgottenrealms.fandom.com/wiki/Hillsfar).[<sup>\[2\]</sup>](https://forgottenrealms.fandom.com/wiki/Standing_Stone#cite_note-GHotR-p156-2)*
 >
 > *It was rebuilt just over 50 years later by the people
 > of [Ashabenford](https://forgottenrealms.fandom.com/wiki/Ashabenford),
 > the then-permanent home of the [Dales
 > Council](https://forgottenrealms.fandom.com/wiki/Dales_Council), after
 > reaffirming the Dales Compact with the restored city of [Myth
-> Drannor](https://forgottenrealms.fandom.com/wiki/Myth_Drannor).[^\[3\]^](https://forgottenrealms.fandom.com/wiki/Standing_Stone#cite_note-FRCG-109-3)*
+> Drannor](https://forgottenrealms.fandom.com/wiki/Myth_Drannor).[<sup>\[3\]</sup>](https://forgottenrealms.fandom.com/wiki/Standing_Stone#cite_note-FRCG-109-3)*
 

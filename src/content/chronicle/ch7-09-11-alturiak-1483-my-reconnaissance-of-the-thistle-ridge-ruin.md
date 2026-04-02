@@ -19,7 +19,7 @@ my findings to explain my credentials.
 ## My Background
 
 I, Malveau Greenleaf, am of partially-elven descent, my father being a
-Cormanthor Wood Elf born in the 12^th^ century, my mother, Alexi
+Cormanthor Wood Elf born in the 12<sup>th</sup> century, my mother, Alexi
 Greenleaf (I'm not sure this was her true surname), originally a stable
 maid at Anathar's Dell, in the days before the great battles there in
 1372. I have no memory of my father, as he left with his People in the

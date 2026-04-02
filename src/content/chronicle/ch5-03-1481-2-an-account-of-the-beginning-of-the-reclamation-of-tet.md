@@ -14,7 +14,7 @@ with permission and gratitude.-Br. Darred
 >
 > -GFD
 
-**Situation Report, Ches 28^th^ 1481 DR, Loedegan's Hall**
+**Situation Report, Ches 28<sup>th</sup> 1481 DR, Loedegan's Hall**
 
 This morning I was again diligent in my attendance of the daily
 Situation Report at Loedegan's Hall. So diligent, in fact, that I now

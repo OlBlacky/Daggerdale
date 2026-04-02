@@ -213,7 +213,7 @@ renters, and a gatherer of intelligence for the White Cloaks.
 
 This property comes with a tax liability that is accounted for by 4
 small apartments on the first floor that are rented out to Freemen of
-the town. The 2^nd^ and 3^rd^ floors are kept by the White Cloaks, but
+the town. The 2<sup>nd</sup> and 3<sup>rd</sup> floors are kept by the White Cloaks, but
 are usually empty. It is rumoured that they keep emergency supplies
 there. There are no teams headquartered at Arwencroft, but there is room
 for a dozen people if needed.

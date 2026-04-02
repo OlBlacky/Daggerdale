@@ -31,7 +31,7 @@ Netherese Ruin Revealed by Retreat of Anauroch
 
 Shar is another matter altogether, and if you, faithful reader, have
 read Chapter Three, you will know that the seeds of this faith were sewn
-in the 14^th^ century, when one of the Eastern Storm (Gaebril Tremalkin)
+in the 14<sup>th</sup> century, when one of the Eastern Storm (Gaebril Tremalkin)
 openly proselytized on behalf of Shar, and created many followers, and
 indeed, a blood line that becomes the Dark Garden in this story.
 

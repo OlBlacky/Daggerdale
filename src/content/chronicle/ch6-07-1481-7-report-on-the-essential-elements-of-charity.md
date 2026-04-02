@@ -148,7 +148,7 @@ catastrophic events involving Mystra and Lathander which had some impact
 on the rest of the dale, had essentially no impact on Charity, as these
 gods did not factor into the religious makeup of the settlement.
 
-The 15^th^ Century DR in the dale began with the siege of Dagger Falls
+The 15<sup>th</sup> Century DR in the dale began with the siege of Dagger Falls
 by the orc warlord, Zguumush. This siege was masterminded by the
 ambitious Netherese prince, Melagaunt, and this conflict is ongoing to
 this day. At the time, the Whitegate Family was firmly entrenched as the
@@ -278,7 +278,7 @@ the name crosses the lips of many, especially the lower castes.
 ## Resources and Industry
 
 The resources that brought the Westgate families to the region in the
-14^th^ century continue to make Charity the most prosperous town in the
+14<sup>th</sup> century continue to make Charity the most prosperous town in the
 dale. The hills of the area are rich in many minerals and coal. The iron
 mines of the area and the coal mines are the largest sources of revenue.
 Copper and zinc are also both mined in great quantities.

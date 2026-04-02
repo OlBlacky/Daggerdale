@@ -162,7 +162,7 @@ They are coming!"
 With this, a great route began. The hardened veterans in the court
 hearing the news figured out quickly what had happened hours before; the
 siege of The Tower had been a failure, the Sunblades had defeated the
-Torn Cheek, and Captain Garrick Greenfields and the 10^th^ Company had
+Torn Cheek, and Captain Garrick Greenfields and the 10<sup>th</sup> Company had
 galloped in with the news in the valley, blowing horns and now making
 ready to gain the Bastion and join our fight.
 
@@ -677,11 +677,11 @@ true as my axe.
 - Mirtul 1
 
   - 02h00 -- Alexandus Ward ends the siege of the Torn Cheek at The
-    Tower, the 10^th^ Co departs to support us
+    Tower, the 10<sup>th</sup> Co departs to support us
 
   - 05h00 -- Charrah defeated
 
-  - 06h00 -- Captain Monarch defies the mob, 10^th^ Company Arrives, the
+  - 06h00 -- Captain Monarch defies the mob, 10<sup>th</sup> Company Arrives, the
     Yellow Tooth route, burning much in their wake
 
   - 07h00 -- Bolla attacks our men and escapes into the tunnel
@@ -691,7 +691,7 @@ true as my axe.
 
   - 09h00 -- Cursory investigations of all 3 floors completed
 
-  - 10h00 -- Lt. Farmoutain and what's left of the 7^th^ Co 4^th^ Pltn
+  - 10h00 -- Lt. Farmoutain and what's left of the 7<sup>th</sup> Co 4<sup>th</sup> Pltn
     arrive to reinforce us, along with Ward and Nemia Ul-Nishaadri, and
     much happy correspondence
 
@@ -723,7 +723,7 @@ true as my axe.
 I'll add a bit of detail to some of this in a moment, but the overall
 summary is that Chrysalis took the Town Hall (which I sometimes call
 'the castle' as you may have noticed already) in the wee hours of the
-1^st^, and we were soonafter reinforced by our friends and allies, and
+1<sup>st</sup>, and we were soonafter reinforced by our friends and allies, and
 now hold it firmly. A great cleanup is underway, and purifying fires
 burn day and night (some started by us, others still burning from the
 Yellow Tooth route).
@@ -760,7 +760,7 @@ has activated twice this evening, running about and barking at shadows.
 His senses are a comfort to the men, until they do their duty.
 
 The great flock of crows that infested the canopy of the ruin departed
-in fits and starts when the Route began. By full sun on the 1^st^, only
+in fits and starts when the Route began. By full sun on the 1<sup>st</sup>, only
 a 'regular' amount of these birds remained, and none of the larger and
 evil looking ones that the lads call 'Shadow Crows'.
 
@@ -826,7 +826,7 @@ Here is the reconning;
 
   - Horses, ponies, riding hound and train remain at Greenwood Farm
 
-- 7^th^ Company 4^th^ Platoon Bright Spears, with the following (**all
+- 7<sup>th</sup> Company 4<sup>th</sup> Platoon Bright Spears, with the following (**all
   at Thistle Ridge**);
 
   - Command
@@ -856,7 +856,7 @@ Here is the reconning;
 
   - Third Squad -- Foresters
 
-    - Sgt. I Illya Elderbough (a Chauntean from Gribbons', Ranger 1^st^
+    - Sgt. I Illya Elderbough (a Chauntean from Gribbons', Ranger 1<sup>st</sup>
       Class)
 
     - 3 Foresters
@@ -866,7 +866,7 @@ Here is the reconning;
 
   - Fourth Squad -- Reserve
 
-    - Sgt. III Kelya Cordoza (a Vaasan, Ranger 2^nd^ Class)
+    - Sgt. III Kelya Cordoza (a Vaasan, Ranger 2<sup>nd</sup> Class)
 
     - 2 Spearmen -- *1 killed in siege*
 
@@ -880,17 +880,17 @@ Here is the reconning;
 
     - 2 reserve Comyrearn Chargers
 
-- 18^th^ Company 1^st^ platoon -- Full strength -- **garrisoning
+- 18<sup>th</sup> Company 1<sup>st</sup> platoon -- Full strength -- **garrisoning
   Greenwood Farm until Mirtul 10**
 
   - Captain Renley Rawthorn
 
-- 18^th^ Company 2^nd^ platoon -- Full strength -- **garrisoning The
+- 18<sup>th</sup> Company 2<sup>nd</sup> platoon -- Full strength -- **garrisoning The
   Tower until Mirtul 30 or longer**
 
   - Lt. Williams Waterborne
 
-- Free Defense League 14^th^ Company 1^st^ Platoon Dawnshields
+- Free Defense League 14<sup>th</sup> Company 1<sup>st</sup> Platoon Dawnshields
 
   - Command -- **At Thistle Ridge**
 
@@ -927,8 +927,8 @@ Here is the reconning;
   - Chief Engineer Gamling 'Swelter' Hammerfall (a dwarven engineer,
     late of the FDL)
 
-This then is our accounting. The heaviest losses were in the 4^th^
-company 7^th^ platoon Bright Spears, which gave 7 men and women to hold
+This then is our accounting. The heaviest losses were in the 4<sup>th</sup>
+company 7<sup>th</sup> platoon Bright Spears, which gave 7 men and women to hold
 the Tower against the Torn Cheek and their war machines.
 
 Of my own FDL men, I have given five; three at The Tower, and two at the
@@ -957,12 +957,12 @@ Mercator, into their hearts and mortal imperatives that drive them.
 As I write this, we are 30 Sunblades in two part-platoons, 4 FDL and
 Chrysalis, holding the castle in Thistle Ridge. That is enough for now.
 
-### 7^th^ Company 4^th^ Platoon Bright Spears Arrive
+### 7<sup>th</sup> Company 4<sup>th</sup> Platoon Bright Spears Arrive
 
 Around 10 AM, we were heartened to see Farmountain and his platoon make
 Thistle Ridge with their report (which I have kept a copy of). In short,
 they successfully defended the Tower against the Torn Cheek, with the
-help of the 10^th^ Company riders that cleared their flank, and the
+help of the 10<sup>th</sup> Company riders that cleared their flank, and the
 pin-point strike carried out by the war mage, who was assisted by the
 ghost hunter and the dwarf tinker, the trio having destroyed the pair of
 trebuchets before either could cast a third stone. It warmed all hearts
@@ -972,8 +972,8 @@ the threat of the war machines and the trolls, aiding Chrysalis. All
 despite their differences in the Arena only some weeks ago.
 
 Farmountain informed us that as the sun rose, Lt. Waterborne's platoon
-of the 18^th^ company arrived to relieve them. Having seen only minor
-skirmishes the night before, the 18^th^ was at full strength and in good
+of the 18<sup>th</sup> company arrived to relieve them. Having seen only minor
+skirmishes the night before, the 18<sup>th</sup> was at full strength and in good
 order, and knew that Farmountain's platoon had seen heavy action the
 entire night before. Rather than resting, Farmountain marched what
 remained of his tired troops *to relieve us*, rather than resting
@@ -991,7 +991,7 @@ And we did just that.
 ## Cleanup Begins, New Plans are Laid
 
 As I write this just as I prepare to sleep for a few hours, late on the
-evening of the 2^nd^ of Mirtul, three great fires and many small ones
+evening of the 2<sup>nd</sup> of Mirtul, three great fires and many small ones
 are burning away the corrupt occupation of Thistle Ridge. The
 smouldering nests continue to fill the air with an acrid haze, and the
 great fires we have lit near the castle serve to reduce bodies and other

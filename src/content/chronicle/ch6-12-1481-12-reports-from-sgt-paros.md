@@ -90,7 +90,7 @@ the estates of the 'Landmen' are located). What he did or who he spoke
 to there is unknown, but he shortly after went into the foothills to the
 west. This is where his trail goes cold.
 
-Second, a woman named Sarah Gideon died in an accident on the 15^th^;
+Second, a woman named Sarah Gideon died in an accident on the 15<sup>th</sup>;
 walking through the gates from the Inner Bailey to the Middle Bailey, a
 loose stone fell from the gatehouse, struck her on the head, and killed
 her instantly. Though there are some structures needing a bit of upkeep

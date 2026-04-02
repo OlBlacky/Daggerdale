@@ -1,5 +1,5 @@
 ---
-title: "20 Tarsakh, 1483 DR - Thistle Ridge Expeditionary Record -- Phoebe Birchgrove, Sgt. III, 7^th^ Co. 4^th^ Plt, Bright Spears, Aid de Camp for Lt. I Forge Farmountain"
+title: "20 Tarsakh, 1483 DR - Thistle Ridge Expeditionary Record -- Phoebe Birchgrove, Sgt. III, 7th Co. 4th Plt, Bright Spears, Aid de Camp for Lt. I Forge Farmountain"
 chapter: 7
 chapterTitle: "Chapter Seven"
 order: 40

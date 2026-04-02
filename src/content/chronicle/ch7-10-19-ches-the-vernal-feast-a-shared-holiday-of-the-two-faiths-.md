@@ -9,15 +9,15 @@ order: 10
 of Daggerfalls, 20 Ches, 1483 DR*.
 
 It is important to observe the religious bicameral nature of Daggerdale,
-especially as it plays out on the 19^th^ of Ches every year in the town
+especially as it plays out on the 19<sup>th</sup> of Ches every year in the town
 of Dagger Falls. This year, I was fortunate enough to be at liberty for
 the entirety of the festival which, it should be noted, starts in
-earnest on the evening of the 18^th^ of Ches for the Chaunteans. This is
+earnest on the evening of the 18<sup>th</sup> of Ches for the Chaunteans. This is
 a conspicuous date, as it is the second-most important Holy Day for both
 the Amaunatori and the Chaunteans (and, it should be acknowledged, a
 dozen other faiths of varying sizes and popularity).
 
-For the Amaunatori, the 19^th^ of Ches is known as the **Vernal
+For the Amaunatori, the 19<sup>th</sup> of Ches is known as the **Vernal
 Epiphany**, for the Visions that many soon-to-be worshipers of Amaunator
 all shared on that date in 1373 DR, in advance of the Spellplague, and
 the rebirth of Amaunator a year and six tenday later. Ardelusk Whitegate
@@ -119,8 +119,8 @@ last day of the year in the Sunblade contractual calendar.
 **The Muster**, as it is known in both military and civilian circles, is
 the tenday following the Vernal Feast, wherein the many companies of
 Sunblades are reconstituted for the season; soldiers are traded from
-company to company, and the Recruits (those of the 11^th^, 12^th^,
-13^th,^ and 14^th^ companies training here in town) are rotated into
+company to company, and the Recruits (those of the 11<sup>th</sup>, 12<sup>th</sup>,
+13<sup>th,</sup> and 14<sup>th</sup> companies training here in town) are rotated into
 fully commissioned companies. With 288 young soldiers going out, and 288
 coming in, there are over five hundred additional young people with
 their appetites to satisfy enjoying the Feast. It is the unenviable task
@@ -131,7 +131,7 @@ night after the liberty they enjoy during the Feast.
 The business with the abandoned farm on the east road has prompted an ad
 hoc arena or theatre to be assembled apurpose for the competition, and
 as I sit here and write this in the Yellow Abbeye in the late morning of
-the 20^th^, with my head throbbing just a bit more than I should
+the 20<sup>th</sup>, with my head throbbing just a bit more than I should
 confess, I have just heard the roar of a crowd watching the opening
 match of the competition not far from my window, and I wish I could see
 what is driving the crowd to such cheering so early in the morning after
@@ -163,7 +163,7 @@ guards did their best to look the other way. He often claims to have
 can often be seen laying on the floor of the Cathedral, with his ear
 pressed against the Burial Stones of the departed, muttering to himself.
 
-On this 19^th^ of Ches, 1483, he was singing the following song;
+On this 19<sup>th</sup> of Ches, 1483, he was singing the following song;
 
 > There are spirits spirits spirits one-two-three;
 >

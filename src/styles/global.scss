@@ -107,18 +107,14 @@ hr {
   margin: 2rem 0;
 }
 
-// Search button (top-right on homepage)
+// Search button
 .search-button {
-  position: fixed;
-  top: 1.25rem;
-  right: 1.5rem;
-  display: flex;
+  display: inline-flex;
   align-items: center;
   gap: 0.4rem;
   color: var(--color-text-muted);
   font-family: var(--font-body);
   font-size: 0.9rem;
-  z-index: 10;
 
   svg {
     flex-shrink: 0;
@@ -129,9 +125,15 @@ hr {
   }
 }
 
-// Inner page header — simple home link
+// Inner page header — home link + search
 .page-header {
+  max-width: var(--max-width);
+  margin: 0 auto;
   padding: 1.25rem 1.5rem;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 
   .home-link {
     font-family: var(--font-heading);
@@ -150,8 +152,16 @@ hr {
   flex-direction: column;
   align-items: center;
   text-align: center;
-  padding-top: 4rem;
+  padding-top: 1rem;
   padding-bottom: 4rem;
+
+  .title-page-topbar {
+    width: 100%;
+    max-width: 36rem;
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 2rem;
+  }
 
   .hero {
     margin-bottom: 3rem;

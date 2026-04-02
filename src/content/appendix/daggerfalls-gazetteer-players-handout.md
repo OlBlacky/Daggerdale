@@ -175,7 +175,7 @@ architecture, with many fine panelled rooms on every level, many private
 and intimate nooks filled with tapestries, cushions and carpets with
 rich colours from around the Realms.
 
-The largest room in the building is the dining hall on the 2^nd^ floor,
+The largest room in the building is the dining hall on the 2<sup>nd</sup> floor,
 which serves the mayor as the focal point for her many parties, but
 guests are encouraged to wander the tower and explore. Many of the finer
 rooms have magical lights with intimate tones, some with twinkling motes
@@ -217,9 +217,9 @@ the niece of Lilly. Coventina's father was Lilly's older brother,
 Coventina at the tower with the rest of his family. When she was old
 enough to be conscrpited for military service a few years ago, Caedren
 took the place of his daughter and served her term. He was a capable
-soldier and formidable on horseback, and was placed in the 9^th^
+soldier and formidable on horseback, and was placed in the 9<sup>th</sup>
 Company, one of the Rides, rather than in town as he had hoped. He was
-killed at Liberty Hill on the 1^st^ of Kythorn, 1480 DR by the swarming
+killed at Liberty Hill on the 1<sup>st</sup> of Kythorn, 1480 DR by the swarming
 madness known as the Soul of Corruption. Coventina, like her aunt, is a
 dedicated Sunite, and considered the most stunning beauty in Daggerdale.
 She is kind but aloof, and keeps not close friends or confidants, though
@@ -514,9 +514,9 @@ magical items, currently including the following;
 
 - Skeleton Key -- 200 gp
 
-- Wand of Magic Missile (1^st^) -- 60 gp
+- Wand of Magic Missile (1<sup>st</sup>) -- 60 gp
 
-- Wand of Heal (1^st^) -- 60 gp
+- Wand of Heal (1<sup>st</sup>) -- 60 gp
 
 - Staff of Fire -- 60 gp
 
@@ -589,7 +589,7 @@ list), goat and sheep cheeses, including Nettle Yarg (100% list).
 Firearms and ammunition (200% list).
 
 **Trivia:** As well as hosting the Master Mercer and his staff, this is
-also the home of Ambassador Whitmore. The drawing rooms of the 2^nd^
+also the home of Ambassador Whitmore. The drawing rooms of the 2<sup>nd</sup>
 floor are host to many diplomatic discussions and trade negotiations.
 
 #### Haverstone's Bakery
@@ -613,7 +613,7 @@ a pasty, cup of tea and sugar -- 2cp, other bakery items at 100% list
 price (80% for day-olds), very wide selection
 
 **Trivia:** Master Baker Hazel Haverstone was captain of the Sunblades
-1^st^ Company over 30 years ago. She was the first soldier in that
+1<sup>st</sup> Company over 30 years ago. She was the first soldier in that
 organization to achieve a rank of captain without any battlefield
 experience, being mostly in charge of logistics at the Castle. Many of
 her children and grand children have held this position over the
@@ -927,7 +927,7 @@ control of the tavern and inn to his employees and friends, the
 Stonebridge's, who have run it ever since. Balak is a recluse who spends
 most of his time in the basement brewery doing what he loves most;
 making beer. He is one of the oldest inhabitants of the town, and one of
-only a few that remembers first hand events from the 13^th^ century
+only a few that remembers first hand events from the 13<sup>th</sup> century
 onward.
 
 ## The Myth Drannor Embassy

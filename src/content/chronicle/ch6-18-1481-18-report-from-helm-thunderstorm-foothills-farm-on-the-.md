@@ -40,7 +40,7 @@ Dretch, and his timely interdiction in the development of a branch of
 what I have come to learn is a cult called the Sons of Bel, ostensibly
 worshipers of Bel and other such lesser devils.
 
-Brother Alystair arrived here on the 14^th^ of Marpenoth, and after
+Brother Alystair arrived here on the 14<sup>th</sup> of Marpenoth, and after
 Compline, barred exit from the Cathedral, and had our Lt. round up
 everyone else in town that didn't attend the ceremony. Agitated though
 the Chaunteans (and select others, including a few visiting dwarves from
@@ -60,7 +60,7 @@ would have made their conviction certain. But Dretch also coaxed the
 truth from them and discovered that more of their number were camped to
 the north and were cavorting with hobgoblins from the edge of the dale.
 
-On the morning of the 15^th^, Dretch departed on his own immediately
+On the morning of the 15<sup>th</sup>, Dretch departed on his own immediately
 after Matins, leaving instruction for the Sun Blades to follow him after
 sunrise. He knew the location of the camp (some three miles north of the
 farm, and a mile east of the Feyspring River), and wanted to reconnoitre

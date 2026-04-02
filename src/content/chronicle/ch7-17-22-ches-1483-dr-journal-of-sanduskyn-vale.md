@@ -5,7 +5,7 @@ chapterTitle: "Chapter Seven"
 order: 17
 ---
 
-Then came the afternoon of the 22^nd^, and here the people of Dagger
+Then came the afternoon of the 22<sup>nd</sup>, and here the people of Dagger
 Falls were reminded of the terrible beauty of the Gold Elves, and how
 they are just not the same as us mortals. Having already won their first
 match against the White Cloaks with seeming ease, the crowd was eager to

@@ -209,7 +209,7 @@ order: 12
 > flags all about.*
 >
 > *"Leading our new team is the Virtuous Tarra Hilltop, Lieutenant
-> (retired) of the Sun Blades 1^st^ Company, 2^nd^ Platoon,
+> (retired) of the Sun Blades 1<sup>st</sup> Company, 2<sup>nd</sup> Platoon,
 > Mountaineers! A battle chaplain of great experience, Hilltop is sure
 > to lead with skill and integrity!" and the crowd roils up again.
 > Everyone in the crowd seems to love the idea of this woman, who in the
@@ -235,7 +235,7 @@ order: 12
 > favourite of many of the ladies in the crowd.*
 >
 > *"Finally, one last recruit from the retired ranks of the Sunblades,
-> this time a Forster of the 16^th^ Company 3^rd^ Platoon, born and
+> this time a Forster of the 16<sup>th</sup> Company 3<sup>rd</sup> Platoon, born and
 > raised in the wilds near Lostholme, the dangerous Zelia Oakbough!"*
 
 ## Flags and Mountain -- First Round of the Tournament

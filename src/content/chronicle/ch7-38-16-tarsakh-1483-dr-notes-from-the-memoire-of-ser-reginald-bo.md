@@ -17,10 +17,10 @@ one place and record the day's events is the most difficult for me.
 Tonight, Tempus has blessed me with no sleep, after days of great and
 terrible news.
 
-Though I write this on the 16^th^ (or the wee hours of the 17^th^ I
+Though I write this on the 16<sup>th</sup> (or the wee hours of the 17<sup>th</sup> I
 would guess), I must back up an order things in my mind.
 
-On the 13^th^, with the camp at Greenwood secured the day before,
+On the 13<sup>th</sup>, with the camp at Greenwood secured the day before,
 Chrysalis set out for The Tower, and secured a great victory there. I
 will not recount it here, as their honour is not mine to share. However,
 when news came of the death of Karn, there was a great roar of triumph
@@ -47,7 +47,7 @@ of the Tower, and he is presently being sent to Charnel Priory in
 Charity, to see if he can't be knitted back together with time and the
 Sisters' skill and faith.
 
-By the afternoon of the 14^th^, Chrysalis arrived back in camp, and I
+By the afternoon of the 14<sup>th</sup>, Chrysalis arrived back in camp, and I
 think the Captain was surprised to see how much work had been done in
 just 24 hours. The men had cleared a substantial portion of the hill,
 the sawmill was set up, and a comfortable camp had been struck among the
@@ -58,7 +58,7 @@ made for the Sun Blades to garrison The Tower in force the next day.
 
 ## ![](/Daggerdale/images/chapter7/image49.jpeg)Andi Autumnhill 
 
-Late in the morning of the 14^th^, the halfling girl, Andi Autumnhill
+Late in the morning of the 14<sup>th</sup>, the halfling girl, Andi Autumnhill
 (who's family operates the Inn in Gryphons Farm -- yes, I still use the
 older name of this place), arrived unexpectedly in our camp, accompanied
 by 100 chickens (mostly stout laying hens and a few very angry roosters)
@@ -81,7 +81,7 @@ the girl and her fine birds.
 
 ## The Tower Garrisoned, Evils Discovered
 
-Chrysalis left early in the morning of the 15^th^ with the entire 7^th^
+Chrysalis left early in the morning of the 15<sup>th</sup> with the entire 7<sup>th</sup>
 Co., train and all. Their intention was to garrison The Tower and hold
 it as the next strategic staging point for our Grander Mission. Like a
 cat grasping at wriggling prey, we will not loosen our grip until a
@@ -107,13 +107,13 @@ Beast and his savagery. **Though The Beast is slain, his wickedness
 cannot be undone, especially in the dreams of those that faced him in
 the dark.**
 
-Chrysalis stayed the night of the 15^th^ at The Tower with the 7^th^,
-and departed on the 16^th^, which would prove a very long and perilous
+Chrysalis stayed the night of the 15<sup>th</sup> at The Tower with the 7<sup>th</sup>,
+and departed on the 16<sup>th</sup>, which would prove a very long and perilous
 day.
 
 ## The Mysterious Temple
 
-The fair morning of the 16^th^ finds Chrysalis leaving The Tower to
+The fair morning of the 16<sup>th</sup> finds Chrysalis leaving The Tower to
 return to Greenwood Camp, by way of scouting the lee of the hills to the
 E-NE of our position. There, they were drawn into a curious ambush by
 Yellow Tooth that I would later learn are the Gukk Warband from

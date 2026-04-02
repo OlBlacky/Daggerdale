@@ -103,7 +103,7 @@ played a key role in the death of Lord Muloch, though he is not at
 liberty, or has not been made privy to, any further knowledge on the
 matter.
 
-On the 20^th^ of Marpenoth, Mr. Gideon fled our town, knowing that the
+On the 20<sup>th</sup> of Marpenoth, Mr. Gideon fled our town, knowing that the
 White Cloaks were returning from Whitenhead with the knowledge of his
 treachery. He was seen leaving the Charnel Gate in the evening, with 6,
 perhaps 8, other men. Mr. Constable reports that his guards suspected
@@ -138,7 +138,7 @@ conduct such herein. Despite mixed feelings from our citizenry, the
 outcome of their work has been evaluated not only by popular opinion,
 but by Ecumenical Council and Royal Assembly alike.
 
-Throughout the 20^th^ of Marpenoth, guided by a Divine Rite brought by
+Throughout the 20<sup>th</sup> of Marpenoth, guided by a Divine Rite brought by
 the White Cloaks, the Sisters of Charnel Priory managed to save the
 souls of two of the victims of Gideon's Treachery. Happily, the details
 of the Rite are known only to those Sisters and victims unfortunate

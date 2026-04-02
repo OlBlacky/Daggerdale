@@ -98,7 +98,7 @@ a note still tied to its ankle. I have transcribed it below;
 > villains operating in Charity Hills. I am awaiting direction from
 > Loremaster Solemnius, but you should begin to plan for an expedition
 > to that strange town. I will meet you in-person at Quick Axes on the
-> 14^th^...*
+> 14<sup>th</sup>...*
 >
 > *Br. Darred.*
 

@@ -7,7 +7,7 @@ order: 30
 
 ## The Contest Concludes -- Chrysalis is Named the Victor, and Given Charter
 
-The 30^th^ of Ches would prove to be as busy a day as any that Chrysalis
+The 30<sup>th</sup> of Ches would prove to be as busy a day as any that Chrysalis
 had endured the tenday previous. Thankfully, there were no battles with
 swords and spells this day, but many of wits and cunning, politics and
 business.

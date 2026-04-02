@@ -332,7 +332,7 @@ that great enemy not having the strength to overrun Daggerdale on a
 whim.
 
 The Kingdom of Cormyr has long been involved in the politics of
-Daggerdale. In the 14^th^ century, the Cormaeril family had a claim to
+Daggerdale. In the 14<sup>th</sup> century, the Cormaeril family had a claim to
 the rulership of the dale, though that was short lived (dying with
 William Cormaeril in the late 1390's). Today, Cormyr is an ally of
 necessity, as they both share a devious and determined enemy in
@@ -364,7 +364,7 @@ from the Daggerhills, and Hobgoblins from the northern reaches of
 Cormanthor.
 
 Of old, the chief enemy of the dale were the Zhentarim. The events of
-the late 14^th^ century put an end to the Black Network's hold over the
+the late 14<sup>th</sup> century put an end to the Black Network's hold over the
 dale, and especially over Dagger Falls (which it held fast for many
 years), but we again hear of trading costers coming out of places like
 Voonlar, Hillsfar, Yulash and Teshwave. Although merchants from these
@@ -537,7 +537,7 @@ are many.
 
 To enter Dagger Falls from the South, you must first wait in the
 Watergate Customs Court, a large staging area adjacent to the bridge and
-customs building from which it derives its name. I arrived on the 9^th^
+customs building from which it derives its name. I arrived on the 9<sup>th</sup>
 of Flamerule, 1482, and was one of more than 100 travelers from several
 caravans queued to enter. The court itself is a 100 by 100 yard 3-sided
 affair, as you'll see from the map below, with new barns left and right,

@@ -26,7 +26,7 @@ From the Yellow Abbeye Booke of Surveys and Measures, 1481 Edition
 
         - Lucidus (1444-1480) -- Sarah Forster (1460-)
 
-  - Loedegan -- Becca Weaver (2^nd^ wife; 1381-1417)
+  - Loedegan -- Becca Weaver (2<sup>nd</sup> wife; 1381-1417)
 
     - Brilliance (F, 1404-1470) Never married, no children
 
@@ -37,7 +37,7 @@ From the Yellow Abbeye Booke of Surveys and Measures, 1481 Edition
       - This is a prolific side of the family, with lots of
         Thunderstorms issuing from the union of Radiance and Karrigan.
 
-  - Loedegan -- Taryara Millstone (3^rd^ wife; 1400-1455)
+  - Loedegan -- Taryara Millstone (3<sup>rd</sup> wife; 1400-1455)
 
     - Argent **(Zenith Lord of Daggerdale)** (1419-) -- Sarah Mourn
       (1420-1475)
