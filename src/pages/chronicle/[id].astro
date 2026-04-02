@@ -1,0 +1,47 @@
+---
+import Content from '../../layouts/Content.astro';
+import { getCollection, render } from 'astro:content';
+import { chapterDescriptions } from '../../lib/stories';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('chronicle');
+  return entries.map((entry) => ({
+    params: { id: entry.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content: EntryContent } = await render(entry);
+const base = import.meta.env.BASE_URL;
+
+// Get prev/next entries in same chapter
+const allEntries = await getCollection('chronicle');
+const sorted = allEntries.sort((a, b) => {
+  if (a.data.chapter !== b.data.chapter) return a.data.chapter - b.data.chapter;
+  return a.data.order - b.data.order;
+});
+const currentIndex = sorted.findIndex((e) => e.id === entry.id);
+const prev = currentIndex > 0 ? sorted[currentIndex - 1] : null;
+const next = currentIndex < sorted.length - 1 ? sorted[currentIndex + 1] : null;
+---
+
+<Content title={entry.data.title}>
+  {entry.data.chapter > 0 && (
+    <p class="chapter-label">
+      {entry.data.chapterTitle}
+      {chapterDescriptions[entry.data.chapter] && (
+        <span> — {chapterDescriptions[entry.data.chapter]}</span>
+      )}
+    </p>
+  )}
+  <EntryContent />
+  <nav class="entry-nav">
+    {prev && (
+      <a class="entry-prev" href={`${base}chronicle/${prev.id}/`}>&larr; {prev.data.title}</a>
+    )}
+    {next && (
+      <a class="entry-next" href={`${base}chronicle/${next.id}/`}>{next.data.title} &rarr;</a>
+    )}
+  </nav>
+</Content>

@@ -1,24 +1,33 @@
 # build output
 dist/
-# generated types
 .astro/
 
 # dependencies
 node_modules/
 
 # logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-
+*.log
 
 # environment variables
 .env
 .env.production
 
-# macOS-specific files
+# OS files
 .DS_Store
+Thumbs.db
 
-# jetbrains setting folder
+# IDE
 .idea/
+
+# Python (for transcript scripts)
+.venv/
+__pycache__/
+
+# Audio files (too large for git)
+*.flac
+*.m4a
+*.wav
+*.mp3
+
+# Private notes
+private/

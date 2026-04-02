@@ -1,0 +1,68 @@
+---
+title: "20 Ches, 1484 DR - A Note from Godwin Ferguson"
+chapter: 7
+chapterTitle: "Chapter Seven"
+order: 14
+---
+
+Late in the afternoon, a package is delivered to the Embassy by a runner
+from Charity House. There is a note in an envelope tucked into the
+ribbons which wrap up a small package of books. The letter smells of
+wine, perfume and lust.
+
+*Dearest Ambassador:*
+
+*I heard about your stunning victory over the White Cloaks this morning!
+Well done, indeed! I would like to have seen it with my own eyes, but I
+had other matters to attend, as I'm sure you understand.*
+
+*I have enclosed with this letter a package with two books that I had to
+wrestle from the degenerate sticky claws of my clerk. I'm afraid that
+the status of the Amnian Bride's Primer can no longer be described as
+'pristine' and I'm not sure what's on page 69 or 70, but they are
+hopelessly stuck together, and I fear we'll never know what depravity
+they depicted which inspired my clerk to add his own ink to the
+arrangement.*
+
+*I have also enclosed the report from the magistrate with regards to the
+hauntings. I'm sure your hedge wizard will enjoy it. I am confident that
+the material in this report will be apropos of the Intelligence Report
+which I hope you are assembling in good order.*
+
+*There is so much to do this tenday, but I do hope you'll make time to
+have myself invited to the Embassy. I am resting today for the
+festivities tonight, but I expect I'll be free tomorrow evening.*
+
+*Fondest Regards,*
+
+*GF.*
+
+*PS: Please do return these writings to the Aethenium when you're done
+with them, won't you? I'm not sure when they're due back...*
+
+## Yellow Abbey Athenaeum Borrower\'s Card (stolen by Lucan)
+
+Checked Out:
+
+\"On the Legal Norms of Chondath, 13th Century DR, by Periphryn Laers\",
+copy by Br. Remelius Bright, Y.A.A. 1466.
+
+\"A Theory of the Hauntings of Thistle Ridge, by Magistrate Zoderick
+Winters, 1445 DR\"
+
+\"Musings on the Struggle of Sembia with Prince Brennus Tanthul, by
+Amery Voskul, 1410 DR, with foreword updated by Br. neus Hoetmer, 1440
+DR\"
+
+\"An Amnian Bride\'s Primer\" date and author unknown.
+
+Borrower: Jack Scrivner
+
+Librarian: Magistrate Silvan Dale
+
+Check Out Date: Alteriak 21, 1483 DR
+
+Due Date: 1 Ches, 1483 DR
+
+***Late Fee Reminder: 1 sp/day per book!***
+

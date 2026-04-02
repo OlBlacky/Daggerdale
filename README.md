@@ -1,43 +1,105 @@
-# Astro Starter Kit: Minimal
+# Daggerdale
 
-```sh
-pnpm create astro@latest -- --template minimal
+A D&D campaign journal spanning 20+ years, built with [Astro](https://astro.build) and deployed to GitHub Pages.
+
+**Live site:** https://lesblackwell-commits.github.io/Daggerdale/
+
+## Getting Started
+
+```bash
+pnpm install
+pnpm dev        # Start dev server at localhost:4321
+pnpm build      # Build for production
+pnpm preview    # Preview production build
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Where to Put Your Content
 
-## 🚀 Project Structure
+All content goes in `src/content/` as markdown (`.md`) or MDX (`.mdx`) files:
 
-Inside of your Astro project, you'll see the following folders and files:
+### Session Recaps → `src/content/stories/`
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
+One file per session. Name them `YYYY-MM-DD-session-title.md` so they sort chronologically.
+
+Required frontmatter:
+
+```yaml
+---
+title: "The Battle of Dagger Falls"
+date: "2024-03-15"
+story: "The Shadow Arc"          # optional: arc name
+summary: "The party defended..." # optional: one-liner
+image: "battle-of-dagger-falls.webp"  # optional
+---
+
+Your session recap in markdown here.
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+### Characters, NPCs, Places → `src/content/appendix/`
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+- `pcs.mdx` — Player characters (active & retired)
+- `npcs.md` — Notable NPCs
+- `places.md` — Locations
 
-Any static assets, like images, can be placed in the `public/` directory.
+Add more files as needed. Each needs:
 
-## 🧞 Commands
+```yaml
+---
+title: "Page Title"
+order: 1  # controls sort order in the appendix grid
+---
+```
 
-All commands are run from the root of the project, from a terminal:
+### Arc Summaries → `src/content/summaries/`
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `pnpm install`             | Installs dependencies                            |
-| `pnpm dev`             | Starts local dev server at `localhost:4321`      |
-| `pnpm build`           | Build your production site to `./dist/`          |
-| `pnpm preview`         | Preview your build locally, before deploying     |
-| `pnpm astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro -- --help` | Get help using the Astro CLI                     |
+High-level overviews of major story arcs.
 
-## 👀 Want to learn more?
+```yaml
+---
+title: "Arc Name"
+---
+```
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+### Essays → `src/content/essays/`
+
+Retrospectives, world-building deep dives, DM notes.
+
+```yaml
+---
+title: "Essay Title"
+date: "2024-01-01"  # optional
+---
+```
+
+### Images → `public/images/`
+
+Put images in `public/images/` and reference them in markdown as:
+
+```markdown
+![Alt text](/Daggerdale/images/your-image.webp)
+```
+
+Use `.webp` format for best performance. You can also create a `public/images/small/` directory for thumbnails.
+
+## Project Structure
+
+```
+src/
+  content/
+    stories/       ← session recaps
+    appendix/      ← PCs, NPCs, places
+    summaries/     ← arc summaries
+    essays/        ← retrospectives & notes
+  layouts/         ← Base.astro, Content.astro
+  pages/           ← route definitions
+  styles/          ← global.scss
+  lib/             ← helper functions
+public/
+  images/          ← campaign art & maps
+.github/
+  workflows/       ← GitHub Pages deploy
+```
+
+## Deployment
+
+Pushes to `main` automatically deploy to GitHub Pages via GitHub Actions. Make sure GitHub Pages is configured to use "GitHub Actions" as the source in your repo settings.

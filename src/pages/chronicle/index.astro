@@ -1,0 +1,38 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getChronicleByChapter, chapterDescriptions } from '../../lib/stories';
+
+const chapters = await getChronicleByChapter();
+const base = import.meta.env.BASE_URL;
+---
+
+<Base title="The Chronicle">
+  <h1>The Chronicle</h1>
+  <div data-pagefind-body>
+    {[...chapters.entries()].map(([chNum, { title, entries }]) => (
+      <section class="chapter-section">
+        {chNum === 0 ? (
+          <ul class="story-list">
+            {entries.map((entry) => (
+              <li><a class="story-title" href={`${base}chronicle/${entry.id}/`}>{entry.data.title}</a></li>
+            ))}
+          </ul>
+        ) : (
+          <>
+            <h2>
+              {title}
+              {chapterDescriptions[chNum] && (
+                <span class="chapter-era">{chapterDescriptions[chNum]}</span>
+              )}
+            </h2>
+            <ul class="story-list">
+              {entries.map((entry) => (
+                <li><a class="story-title" href={`${base}chronicle/${entry.id}/`}>{entry.data.title}</a></li>
+              ))}
+            </ul>
+          </>
+        )}
+      </section>
+    ))}
+  </div>
+</Base>

@@ -1,0 +1,19 @@
+---
+import Content from '../../layouts/Content.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('appendix');
+  return entries.map((entry) => ({
+    params: { id: entry.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content: EntryContent } = await render(entry);
+---
+
+<Content title={entry.data.title}>
+  <EntryContent />
+</Content>
