@@ -20,6 +20,10 @@ const base = import.meta.env.BASE_URL;
     <title>The Daggerdale Chronicle</title>
   </head>
   <body class="home">
+    <a href={`${base}search/`} class="search-button" aria-label="Search">
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      Search
+    </a>
     <main class="title-page" data-pagefind-body>
       <header class="hero">
         <h1>The Daggerdale Chronicle</h1>
@@ -39,13 +43,14 @@ const base = import.meta.env.BASE_URL;
                 ))}
               </ul>
             ) : (
-              <>
-                <h3>
+              <details>
+                <summary>
                   {title}
                   {chapterDescriptions[chNum] && (
                     <span class="chapter-era">{chapterDescriptions[chNum]}</span>
                   )}
-                </h3>
+                  <span class="entry-count">{entries.length} entries</span>
+                </summary>
                 {chNum <= 2 ? (
                   <p class="chapter-missing"><em>Unwritten — source materials are now difficult to find.</em></p>
                 ) : (
@@ -55,7 +60,7 @@ const base = import.meta.env.BASE_URL;
                     ))}
                   </ul>
                 )}
-              </>
+              </details>
             )}
           </div>
         ))}

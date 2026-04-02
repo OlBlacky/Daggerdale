@@ -107,6 +107,28 @@ hr {
   margin: 2rem 0;
 }
 
+// Search button (top-right on homepage)
+.search-button {
+  position: fixed;
+  top: 1.25rem;
+  right: 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: var(--color-text-muted);
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  z-index: 10;
+
+  svg {
+    flex-shrink: 0;
+  }
+
+  &:hover {
+    color: var(--color-primary);
+  }
+}
+
 // Inner page header — simple home link
 .page-header {
   padding: 1.25rem 1.5rem;
@@ -173,27 +195,63 @@ hr {
       padding-bottom: 0.25rem;
     }
 
-    h3 {
-      font-size: 1.1rem;
-      margin-top: 1.5rem;
-      margin-bottom: 0.5rem;
+    details {
+      margin-top: 1rem;
+
+      summary {
+        cursor: pointer;
+        font-family: var(--font-heading);
+        font-size: 1.1rem;
+        color: var(--color-primary);
+        font-weight: bold;
+        list-style: none;
+        display: flex;
+        align-items: baseline;
+        gap: 0.5rem;
+
+        &::before {
+          content: '▸';
+          display: inline-block;
+          transition: transform 0.2s;
+          flex-shrink: 0;
+        }
+
+        &:hover {
+          color: var(--color-link-hover);
+        }
+      }
+
+      &[open] summary::before {
+        transform: rotate(90deg);
+      }
+
+      // Remove default marker in webkit/firefox
+      summary::-webkit-details-marker {
+        display: none;
+      }
     }
 
     .chapter-era {
       font-size: 0.85rem;
       color: var(--color-text-muted);
       font-weight: normal;
-      margin-left: 0.5rem;
+    }
+
+    .entry-count {
+      font-size: 0.8rem;
+      color: var(--color-text-muted);
+      font-weight: normal;
+      margin-left: auto;
     }
 
     .chapter-missing {
       font-size: 0.9rem;
       color: var(--color-text-muted);
-      margin-left: 1rem;
+      margin-left: 1.5rem;
     }
 
     .toc-chapter {
-      margin-bottom: 0.5rem;
+      margin-bottom: 0.25rem;
     }
 
     ul {
