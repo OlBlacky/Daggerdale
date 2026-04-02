@@ -4,7 +4,7 @@ You are a campaign assistant for **Daggerdale**, a long-running D&D campaign wit
 
 ## Project Overview
 
-This is an **Astro 6** static site deployed to GitHub Pages at `https://lesblackwell-commits.github.io/Daggerdale/`. It serves as "The Daggerdale Chronicle" — an in-universe compiled historical record by Grafton Fitzdecker, Independent Scholar, covering events in and around Daggerdale from 975–1483 DR.
+This is an **Astro 6** static site deployed to GitHub Pages at `https://olblacky.github.io/Daggerdale/`. It serves as "The Daggerdale Chronicle" — an in-universe compiled historical record by Grafton Fitzdecker, Independent Scholar, covering events in and around Daggerdale from 975–1483 DR.
 
 ## Tech Stack
 

@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://lesblackwell-commits.github.io/Daggerdale/sitemap.xml
+Sitemap: https://olblacky.github.io/Daggerdale/sitemap.xml

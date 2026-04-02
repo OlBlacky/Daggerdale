@@ -2,7 +2,7 @@
 
 A D&D campaign journal spanning 20+ years, built with [Astro](https://astro.build) and deployed to GitHub Pages.
 
-**Live site:** https://lesblackwell-commits.github.io/Daggerdale/
+**Live site:** https://olblacky.github.io/Daggerdale/
 
 ## Getting Started
 
