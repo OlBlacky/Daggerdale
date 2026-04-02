@@ -318,9 +318,7 @@ merchant. I sincerely hope you'll make a go of it, and that some day you
 will come and visit your brother and his kin, now adorned in our simple
 linen wraps like the locals, whom I've drawn you a picture of below.*
 
-![Mulhorand \| Forgotten Realms Wiki \|
-Fandom](/Daggerdale/images/chapter7/image40.png)
-
+![Mulhorand](/Daggerdale/images/chapter7/image40.png)
 *You will find us all at Immotep thokari (that's 'villa') on Kossur
 m'pha (that's 'road') in dour Gheldaneth.*
 

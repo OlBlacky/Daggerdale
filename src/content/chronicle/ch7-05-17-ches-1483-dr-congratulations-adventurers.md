@@ -74,10 +74,7 @@ quality of each Report.
 
 ## Adjudicating Committee Endorsement & Fina Scoring
 
-![A group of people in clothing Description automatically
-
-generated](/Daggerdale/images/chapter7/image19.jpeg)
-
+![A group of people in clothing](/Daggerdale/images/chapter7/image19.jpeg)
 The final component of the Competition scoring will
 be based on the personal opinion of each Adjudicating Committee Member.
 Each Member will, at the Competition Closing Ceremony, make or withhold

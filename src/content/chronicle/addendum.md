@@ -112,7 +112,4 @@ aren't like regular dales folk.  But the truth is; they are the most
 dales-like among us.  There's nothin' more makes a man of the dales than
 stickin' it out."
 
-![Moonsea Region - Circa 1367
-
-DR](/Daggerdale/images/chapter7-begins/image3.png)
-
+![Moonsea Region - Circa 1367 DR](/Daggerdale/images/chapter7-begins/image3.png)

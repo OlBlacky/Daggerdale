@@ -128,10 +128,7 @@ never been proven, it is suspected that the navy captains knew of the
 deposits of minerals in the area that are needed to make the precious
 gun powder that they had grown fond of during their campaign.
 
-![A logo of a deer Description automatically
-
-generated](/Daggerdale/images/chapter7-begins/image9.png)
-
+![A logo of a deer](/Daggerdale/images/chapter7-begins/image9.png)
 Right away, construction of a stout
 fortress was begun on a strategic hill overlooking a fertile valley,
 with line of sight to most of the key strategic resources and militarily
@@ -194,9 +191,7 @@ Selune is a beautiful structure that has a small, elite order of
 soldiers called 'Silver Stars' that have defended it and the rest of the
 settlement for decades.
 
-![A black tree on a purple and blue shield Description automatically
-
-generated](/Daggerdale/images/chapter7-begins/image10.png) Gond the Wonderbringer figures heavily into this
+![A black tree on a purple and blue shield](/Daggerdale/images/chapter7-begins/image10.png) Gond the Wonderbringer figures heavily into this
 settlement; Charity has been a home to invention since its founding and
 remains so today. Though there is only a very small clergy, all in the
 town praise Gond for the innovations which make their lives safe and
@@ -327,10 +322,7 @@ Ferguson, Muloch & Whitmore) hold lands in the region that they call
 necessarily the eldest; the system of primogeniture is unclear in this
 curious place).
 
-![Falconer Coat of
-
-Arms](/Daggerdale/images/chapter7-begins/image11.png)
-
+![Falconer Coat of Arms](/Daggerdale/images/chapter7-begins/image11.png)
 {alt="Falconer Coat of Arms "
 width="1.5916666666666666in" height="1.764909230096238in"}
 
@@ -364,10 +356,7 @@ Secretary, that reports to the Common Assembly when it sits.
 
 ## Military
 
-![Ferguson Coat of
-
-Arms](/Daggerdale/images/chapter7-begins/image12.png)
-
+![Ferguson Coat of Arms](/Daggerdale/images/chapter7-begins/image12.png)
 {alt="A blue and yellow shield with a tower Description automatically generated"
 width="1.438976377952756in" height="1.5666666666666667in"}
 
@@ -394,10 +383,7 @@ All soldiers, both foot and mounted, train with the ubiquitous firearms
 which the town produces. Mounted soldiers tend to carry one or more
 *pistols*, while ranks of foot set up columns of *rifles.*
 
-![A blue and white shield with black birds Description automatically
-
-generated](/Daggerdale/images/chapter7-begins/image13.png)
-
+![A blue and white shield with black birds](/Daggerdale/images/chapter7-begins/image13.png)
 The land around the town itself is divided
 into four Earldoms, in which you can routinely find patrols from the
 livery of their commander. In the town itself, these liveried soldiers

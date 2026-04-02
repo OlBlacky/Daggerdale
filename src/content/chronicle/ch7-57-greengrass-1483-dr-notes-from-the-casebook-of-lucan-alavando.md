@@ -8,7 +8,6 @@ order: 57
 ## Dossier Entry: On the Matter of Alaventa Alavaxi
 
 ![](/Daggerdale/images/chapter7/image64.jpeg)
-
 **Subject:** *An analytical review of the
 available intelligence concerning Alaventa Alavaxi, a figure peripheral
 yet potentially pivotal to the Thistle Ridge affair.*

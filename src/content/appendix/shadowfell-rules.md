@@ -36,8 +36,8 @@ and different natures to varying degrees;
 
 - -3 to all Dex and Cha skill rolls
 
-## ![](/Daggerdale/images/chapter7/image81.jpeg)
-
+![](/Daggerdale/images/chapter7/image81.jpeg)
+##
 Light and Heat
 
 - Mundane sources of light emit dim light to either their bright light

@@ -6,7 +6,6 @@ order: 36
 ---
 
 ![](/Daggerdale/images/chapter7/image47.jpeg)
-
 Dear Brother Vesuvian,\
 \
 I trust this letter finds you in good health and high spirits (at least

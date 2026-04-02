@@ -19,7 +19,6 @@ prospects, however, I found myself caught up in a current not of my own
 choosing.
 
 ![](/Daggerdale/images/chapter7/image67.png)
-
 "Very good, Master Alavandor," a blonde
 slip of a serving girl---Hannah, I learned---ran up to me and curtsied
 as I crossed the threshold. Fourteen summers at most, but she had the
@@ -33,7 +32,6 @@ her perch to race off through the market and toward Loedegan Close like
 her skirts were on fire.
 
 ![](/Daggerdale/images/chapter7/image67.png)
-
 On those occasions when it's not his worst
 enemy, Waukeen knows, curiosity is a merchant's best friend, so I
 followed Hannah up the stairs. I'll confess the view from behind didn't
@@ -123,7 +121,6 @@ trout---manners be damned, I'd earned it sitting here like a trained
 dog---when the door burst open again.
 
 ![](/Daggerdale/images/chapter7/image68.jpeg)
-
 This time it was the Administrator
 himself, decked out in a smart grey woollen suit with pristine white
 gloves, his silvered hair slicked back like he'd just stepped out of a
@@ -150,7 +147,6 @@ pose I'd seen since the last time I watched the street players in
 Saerloon.
 
 ![](/Daggerdale/images/chapter7/image68.jpeg)
-
 "By all the devils in Hell, have they put a
 troll's chambre pot on my table?" he wailed at the ceiling, frozen in
 his pose of agony. "The smell of it could soften the morning engorgement

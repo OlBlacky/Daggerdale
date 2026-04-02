@@ -265,8 +265,8 @@ I can name) is unchecked by our clumsy passage. Indeed, I think they
 sang us welcome. And this is how we came to Greenwood Farm, our train
 arriving several bells before sundown.
 
-## ![A person and person looking at each other Description automatically generated](/Daggerdale/images/chapter7/image46.jpeg)
-
+![A person and person looking at each other](/Daggerdale/images/chapter7/image46.jpeg)
+##
 Greenwood Farm
 
 It is easy to see why this location was settled some decades ago. The

@@ -9,8 +9,8 @@ order: 11
 specifically, including some references to game materials (such as
 prices in PHB's and that sort of thing).*
 
-## ![A map of a town Description automatically generated](/Daggerdale/images/chapter7/image6.jpeg)
-
+![A map of a town](/Daggerdale/images/chapter7/image6.jpeg)
+##
 Dagger Falls Cathedral
 
 The Cathedral is made up of 4 distinct portions;
@@ -192,8 +192,8 @@ orphan boys whom they have looked after for many years. There are 8 of
 them in total, the oldest being **Dorian Dale**, aged 26, who like his
 namesake is a capable swordsman, and a former Sunblade.
 
-### ![A person in a red dress Description automatically generated](/Daggerdale/images/chapter7/image7.jpeg)
-
+![A person in a red dress](/Daggerdale/images/chapter7/image7.jpeg)
+###
 The Cassimars
 
 There are three remaining Cassimars in the Dales, and they all live at
@@ -213,11 +213,7 @@ Phylactery. Lilly is well connected in town, the Dale, and further
 abroad, and keeps her own messenger doves which support her many
 correspondents around the Dales.
 
-![A person with long red hair wearing a red dress Description
-
-automatically
-generated](/Daggerdale/images/chapter7/image8.jpeg)
-
+![A person with long red hair wearing a red dress](/Daggerdale/images/chapter7/image8.jpeg)
 The youngest Cassimar is **Coventina**,
 the niece of Lilly. Coventina's father was Lilly's older brother,
 **Caedren**. Her mother died in child birth, and Caedren raised
@@ -280,10 +276,7 @@ markets, it is still a loud place with a hundred voices, hammers from
 nearby smithies, musicians plying their trade, and the clatter of wagons
 on the flagstones. Haverstone's
 
-![A map of a town Description automatically
-
-generated](/Daggerdale/images/chapter7/image9.jpeg)
-
+![A map of a town](/Daggerdale/images/chapter7/image9.jpeg)
 Bakery provides the principal olfactory tone, but smells of many food
 vendors, as well as herbs, spices and perfumes add passing interest to
 the smell of the place. Being constantly cleaned by capable and friendly
@@ -994,11 +987,7 @@ Embassy.
 
 ### Arrival at the Embassy
 
-![A person with a beard and mustache wearing glasses and holding a bag
-
-Description automatically
-generated](/Daggerdale/images/chapter7/image10.jpeg)
-
+![A person with a beard and mustache wearing glasses and holding a bag](/Daggerdale/images/chapter7/image10.jpeg)
 For those characters arriving at the
 Embassy for the first time;
 

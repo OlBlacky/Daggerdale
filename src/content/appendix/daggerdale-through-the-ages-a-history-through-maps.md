@@ -12,7 +12,6 @@ distribution of Dagger Falls. This is during towards the end of the
 Randal Morn and Freedom Riders era of the dale.
 
 ![](/Daggerdale/images/chapter7/image16.png)
-
 ## The Harper Map (c. 1371 DR)
 
 This is a rare version of a map that depicts the substantial
@@ -28,7 +27,6 @@ agents who operated within the Falls during the final stage of the Zhent
 occupation. I found this map in Steele's folio.
 
 ![](/Daggerdale/images/chapter7/image17.jpeg)
-
 ## The Yellow Abbeye Map (1482 DR)
 
 There are a few very good copies of this map in circulation, and I was

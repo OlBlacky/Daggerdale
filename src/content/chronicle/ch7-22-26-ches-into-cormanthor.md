@@ -90,16 +90,7 @@ from a nearby rider checking him. The hand belongs to Sephany, a
 forester about 20 years old. "We're not hunting, Sembian" she says
 quietly, watching him closely as he stows his bow.
 
-![Style is 1990\'s style North American comic style, pencil and ink,
-
-with a dark theme. The picture is of two women on horseback in an oak
-forest. They are close together. Both are soldiers from the middle ages,
-and wear yellow and grey tabards. They are both young. In the
-background, one woman has brown curly hair, and a kind round face, and
-carries a short bow. in the foreground the other woman is pretty, with
-white/blonde hair in a tight pony tale carrying a
-spear](/Daggerdale/images/chapter7/image30.jpeg)
-
+![](/Daggerdale/images/chapter7/image30.jpeg)
 "But, it's just looking at us! Surely we
 can make a meal of it!" retorts the young investigator.
 
@@ -176,15 +167,7 @@ seems like several lifetimes of experience in the region.
 specific Lore skill checks in the future regarding Cormanthor and the
 area between Gribbons and Thistle Ridge\]\]
 
-![Style is 1990\'s style North American comic style, pencil and ink,
-
-with a dark theme, with dramatic lighting, sombre but epic. The subject
-of the picture is a small group of medieval soldiers on horseback a long
-way from the camera. They are picking their way through a great oak
-forest, angled obliquely away from the camera. Sunset to their left is
-casting a dramatic orange and gold light on the dreamy
-scene.](/Daggerdale/images/chapter7/image31.jpeg)
-
+![](/Daggerdale/images/chapter7/image31.jpeg)
 The day goes without incident, and by about
 5 PM, the sun is starting to set behind the mountains. There will be
 light on the plains and west side of the mountains until about 7 PM, but
@@ -249,16 +232,7 @@ only thing you have to look out for is..." she is cut off by Jasper
 loudly whispering "Mortimer! Out!" as his familiar jumps into the bag is
 it's handed from one man to another.
 
-![Style is 1990\'s style North American comic style, pencil and ink,
-
-with a dark theme, with dramatic lighting, sombre but epic. The subject
-is a small group of medieval soldiers sitting around a campfire inside
-the crumbling stone walls of an old 1600\'s english farm house. They are
-laughing and smiling. There are shields, spears and axes around the
-camp, and the fire casts a dramatic light on the scene, with a dark
-forest outside the walls, providing a dark contrast.
-](/Daggerdale/images/chapter7/image32.jpeg)
-
+![](/Daggerdale/images/chapter7/image32.jpeg)
 Between the 8 men, 2 flasks of mead are
 shared, which they readily share with your group. "You'll recognize the
 flavour, Mum" Maddy says to Mari. "This is made with your honey. It

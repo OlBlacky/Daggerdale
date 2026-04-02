@@ -15,7 +15,6 @@ civilization, trying to carve an existence out of a forest that seems
 determined to repel us. And this morning we ate fresh bread!
 
 ![](/Daggerdale/images/chapter7/image59.jpeg)
-
 I no longer use the term 'camp' for our
 settlement. The carpenters and masons stood up the walls of the central
 farmhouse quickly, and there is already a shingled roof over it all.

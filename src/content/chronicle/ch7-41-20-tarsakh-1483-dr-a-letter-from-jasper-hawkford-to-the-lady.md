@@ -60,7 +60,6 @@ adapted and absorbed some of the symbology and ritual of this older
 faith when Netheril fell.
 
 ![](/Daggerdale/images/chapter7/image55.emf)
-
 In any case, the existence of the shrine is
 very strange, and has been nagging Lucan's mind as well as mine. Lucan
 has drawn a rough sketch of the shrine and some of its statuary, which I
@@ -112,7 +111,6 @@ some difficulty, though she escaped into the depths of the forest at the
 moment of our triumph.
 
 ![](/Daggerdale/images/chapter7/image56.emf)
-
 I have asked Lucan to draw up a sketch of this
 creature for me as, I must admit, I never actually saw her myself.
 During most of this skirmish I was beset by a horde of monsters I would
@@ -138,7 +136,6 @@ explain that Masra dislikes Lucan quite intensely, and judging by the
 sketch he has handed me, I believe the feeling may be mutual.)
 
 ![](/Daggerdale/images/chapter7/image57.emf)
-
 For starters, we learned that the presence
 of these creatures in the forest goes back both much further than we had
 previously thought, but also much more recent as well. I know this seems

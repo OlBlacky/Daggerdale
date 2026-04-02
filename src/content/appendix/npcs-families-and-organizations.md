@@ -7,10 +7,7 @@ order: 17
 
 ## Fiona Scarlett (Cleric 1 -- Sharess)
 
-![A person in a dress Description automatically
-
-generated](/Daggerdale/images/chapter7/image82.jpeg)
-
+![A person in a dress](/Daggerdale/images/chapter7/image82.jpeg)
 **Special Ability: Nearness of Sharess**
 
 Fiona is imbued with Sharess's divinity in some small measure. People

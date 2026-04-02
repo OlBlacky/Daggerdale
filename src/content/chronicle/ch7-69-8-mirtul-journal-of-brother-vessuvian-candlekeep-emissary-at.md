@@ -93,7 +93,6 @@ wonderful, but they are all just a prelude to the real wonder, which is
 the library and reliquary we entered next.
 
 ![](/Daggerdale/images/chapter7/image66.jpeg)
-
 For we then came to a metal door, perfectly
 round, 8' in diameter, set back behind many layers of archivolts which
 create an ornate tympanum the likes of which I've never seen. The door

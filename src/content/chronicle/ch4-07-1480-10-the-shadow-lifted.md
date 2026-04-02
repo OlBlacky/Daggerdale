@@ -602,10 +602,7 @@ have included a few of the more notable ones in this report. 
 I shall now go into the aftermath of the Battle, which I will divide
 into three periods; immediate, rebuilding, and prosperity.
 
-![Liberty Hill Retaken - By Kesh
-
-Oakdale](/Daggerdale/images/chapter7-begins/image6.jpeg)
-
+![Liberty Hill Retaken - By Kesh Oakdale](/Daggerdale/images/chapter7-begins/image6.jpeg)
 {alt="A group of people in clothing Description automatically generated"
 width="6.5in" height="4.877083333333333in"}
 
@@ -978,10 +975,7 @@ a word in the company of either of her visitors.
 
 ## The Whitegates
 
-![North Gate of Castle
-
-Radiance](/Daggerdale/images/chapter7-begins/image7.jpeg)
-
+![North Gate of Castle Radiance](/Daggerdale/images/chapter7-begins/image7.jpeg)
 The massacre at Liberty Hill was an unprecedented blow to the Whitegate
 family.  It is not even rivalled by the massacre of 1 Kythorn, 1455. 
 Both of Lumina's siblings, Lumen and Luminosus, as well as her cousin
@@ -1459,11 +1453,7 @@ But there is, like Liberty Hill, one dark spot to be found in the place
 that has been carefully caged and must be vigilantly watched over until
 the end.
 
-![A person in a robe standing in front of a window with books and a
-
-feather Description automatically
-generated](/Daggerdale/images/chapter7-begins/image8.jpeg)
-
+![A person in a robe standing in front of a window with books and a feather](/Daggerdale/images/chapter7-begins/image8.jpeg)
 Of Troia, I will say that a lovelier woman
 was never born.  She is beautiful from the inside, all the way through;
 she has a soul of pure kindness and she is every bit a credit to Sune. 

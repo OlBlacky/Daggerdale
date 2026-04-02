@@ -15,10 +15,7 @@ in the decades that followed as they secured their previous territories
 of Netheril for some time), this chapter is about the villains they
 worked with to attack the dale from within.
 
-![A painting of a city with mountains in the background Description
-
-automatically
-generated](/Daggerdale/images/chapter7-begins/image5.jpeg) This story is mostly about the religious struggle
+![A painting of a city with mountains in the background](/Daggerdale/images/chapter7-begins/image5.jpeg) This story is mostly about the religious struggle
 between competing faiths in the area. Amaunator has been the dominant
 faith, since being adopted by the Whitegate Family decades ago and has
 the most administrative and military control over the dale. Chauntea is

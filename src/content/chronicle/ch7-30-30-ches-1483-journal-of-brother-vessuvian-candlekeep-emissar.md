@@ -72,10 +72,7 @@ triple-front threat created by Netheril and her agents. I will do my
 best to support Jeska and my friends in Chrysalis, and will remain
 vigilant against the Enemy Within.
 
-![A screenshot of a video game Description automatically
-
-generated](/Daggerdale/images/chapter7/image44.jpeg)
-
+![A screenshot of a video game](/Daggerdale/images/chapter7/image44.jpeg)
 ## Partnership with the Standing Stone League
 
 Xx
@@ -88,8 +85,8 @@ Xx
 
 Xx
 
-## ![A drawing of a person Description automatically generated](/Daggerdale/images/chapter7/image45.jpeg)
-
+![A drawing of a person](/Daggerdale/images/chapter7/image45.jpeg)
+##
 The Pledge of Lt. Forge Farmountain
 
 xx

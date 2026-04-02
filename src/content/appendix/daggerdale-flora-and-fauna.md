@@ -12,8 +12,8 @@ Protection dogs are quite common, as are livestock and hunting breeds.
 Below are some of the breeds that are popular or unique in Daggerdale. A
 summary of their traits is found at the end of this section.
 
-### ![A dog standing in a field Description automatically generated](/Daggerdale/images/chapter7/image11.jpeg)
-
+![A dog standing in a field](/Daggerdale/images/chapter7/image11.jpeg)
+###
 Lowsted Wolfhound
 
 These large-bodied shaggy dogs are the jack-of-all-trades in Daggerdale.
@@ -34,8 +34,8 @@ other Lowsteds have brown eyes). Lanterns are famous for their ability
 to detect Shadowvar/Shadar-Kai and are highly sought after throughout
 the dale for this ability.
 
-### ![Anatolian 2](/Daggerdale/images/chapter7/image12.jpeg)
-
+![Anatolian 2](/Daggerdale/images/chapter7/image12.jpeg)
+###
 Untheric Shepherd
 
 Originally from the south of Faerun, bred to thrive in blistering hot
@@ -58,11 +58,7 @@ out the largest and slowest, which they reliably tear apart.
 
 ### Cormyrean Shepherd
 
-![Portrait of australian shepherd dog on dark background. Digital
-
-painting., Ai Generative Image 23574243 Stock Photo at
-Vecteezy](/Daggerdale/images/chapter7/image13.jpeg)
-
+![Portrait of australian shepherd dog on dark background. Digital painting.,](/Daggerdale/images/chapter7/image13.jpeg)
 These medium-sized herding dogs originate
 in the cattle fields of Cormyr and have been a fixture in Daggerdale and
 the rest of Faerun for centuries. They are exceptionally capable at
@@ -83,8 +79,8 @@ gifted at understanding language, but also communicating complicated
 messages to other dogs of nearly any species, which they do through
 their refined howling.
 
-### ![Muscular Mastiff Dog Roar (1) by ZENART07 on DeviantArt](/Daggerdale/images/chapter7/image14.jpeg)
-
+![Muscular Mastiff Dog Roar (1)](/Daggerdale/images/chapter7/image14.jpeg)
+###
 Deepingdale Mastiff
 
 This is the largest of the specialized working dogs in the dales, this
@@ -103,8 +99,8 @@ one or two of these with most Sunblade platoons or local militia units.
 
 Some can be bred to serve as mounts for halflings.
 
-### ![167 Wolf Eyes Night Stock Video Footage - 4K and HD Video Clips \| Shutterstock](/Daggerdale/images/chapter7/image15.jpeg)
-
+![167 Wolf Eyes Night](/Daggerdale/images/chapter7/image15.jpeg)
+###
 Tesh Valley Wolf Hybrid
 
 People all over Faerun have bred wolves with domesticated dogs for

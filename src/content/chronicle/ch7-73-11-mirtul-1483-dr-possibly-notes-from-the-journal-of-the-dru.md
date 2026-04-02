@@ -14,8 +14,8 @@ start with a description of the terrible place we're trapped in,
 followed by a short accounting of the day's events, and conclude with a
 bit about myself, my companions, and our current predicament.
 
-## ![](/Daggerdale/images/chapter7/image69.png)
-
+![](/Daggerdale/images/chapter7/image69.png)
+##
 The Shadowfell
 
 Despite what many think, the Shadowfell is not complete darkness, but
@@ -80,7 +80,6 @@ shadow-to-shadow with ease, and their harassments, though not
 overwhelming, fatal or concerted, are a constant nuisance.
 
 ![](/Daggerdale/images/chapter7/image70.jpeg)
-
 Mean-eyed black birds glide noiselessly through the dead and twisted
 canopy of the Shadow Oaks, their faces and bodies ragged with missing
 feathers, some clearly undead, such is their state. Black rats the size
@@ -118,7 +117,6 @@ We are lost, but not hopelessly so.
 ## The Day's Events
 
 ![](/Daggerdale/images/chapter7/image71.jpeg)
-
 As I've said, I awoke under the care of
 Chrysalis, in a ruined cottage in this realm's version of Thistle Ridge.
 Chrysalis had fought with Loki in her subterranean lair, and
@@ -196,7 +194,6 @@ Academy, great wings beating motes of snow and shadow along with
 loosened roof tiles every direction.
 
 ![](/Daggerdale/images/chapter7/image73.jpeg)
-
 "Gelzamael" was the whispered warning from
 the capable hedge wizard, clutching something small in his hand that he
 looked to many times, while examining the dragon.
@@ -278,7 +275,6 @@ nearby, perhaps a quarter mile off, now vanishing in the last cold and
 pale light of the obscene mockery of the sun.
 
 ![](/Daggerdale/images/chapter7/image74.jpeg)
-
 "This place is treacherous, a giant trap,
 mum!" Ser Rowan complained to Mari, as we all looked crestfallen at how
 little progress we had made. "But we must keep going. Gelzamael will
@@ -324,7 +320,6 @@ wound until composure itself becomes a casualty. I bear him no ill will
 for it.
 
 ![](/Daggerdale/images/chapter7/image75.jpeg)
-
 We continued on, for how long it is
 impossible to say; there are no stars wheeling overhead, no moon either.
 There is just complete blackness, and our slow advance which defies our
@@ -365,7 +360,6 @@ to keep us going in the right direction while the rest of Chrysalis
 fought a rolling battle with the cruel fauna of this unholy place.
 
 ![](/Daggerdale/images/chapter7/image76.jpeg)
-
 This attack was more focused and determined
 than the harassments we'd endured in Thistle Ridge. The rats would not
 relent, and we slew many. The crows too dove and dove again, attempting
@@ -455,7 +449,6 @@ rescue, and ever since. Heavier than their wounds, and the fatigue of
 constant flight,
 
 ![](/Daggerdale/images/chapter7/image78.jpeg)
-
 was the despair of the place. Even the
 indefatigable matronly halfling was squatting low to the ground, her
 head in her hands, and I think she was weeping. The boys were breathing
@@ -527,13 +520,11 @@ find Loki supported by other Shadowvar. Of course, that was inadequate
 defense
 
 ![](/Daggerdale/images/chapter7/image79.jpeg)
-
 against Chrysalis, but it may have all been
 part of the trap I am currently in; for Monarch chased after Loki,
 mistaking prey and predator. And here we are.
 
 ![](/Daggerdale/images/chapter7/image80.jpeg)
-
 Before I am forced to retire my pen for the
 night, I should record that I seem to be familiar with a good many
 things I have no direct recollection of; the cities of the Moonsea (some

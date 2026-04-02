@@ -60,8 +60,4 @@ which is little silver kukri is affixed. Finally, there is a halfling
 girl with curly blonde hair wearing a brown dress and apron with an oak
 leaf embroidered on it.*
 
-![A group of people walking towards a building on fire AI-generated
-
-content may be
-incorrect.](/Daggerdale/images/chapter7/image34.jpeg)
-
+![A group of people walking towards a building on fire](/Daggerdale/images/chapter7/image34.jpeg)

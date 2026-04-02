@@ -93,7 +93,6 @@ his ears listening for this type of talk. Who knows who might hear this
 sort of talk and get the wrong idea..."
 
 ![](/Daggerdale/images/chapter7/image58.jpeg)
-
 **MO:** "Now I'm convinced. If you think
 it's a bad idea because you don't trust Invictus, and you also think I
 am wrong because I want to start with a fresh garden bed up on Thistle

@@ -31,7 +31,6 @@ wagons while we turned north, heading through the soon-to-be-golden
 fields of that fine farm.
 
 ![](/Daggerdale/images/chapter7/image61.jpeg)
-
 I think if not for the nature of my
 familiar, I would have found the forest daunting. Even with most of the
 trees still abud, and mostly naked, it is dark and unwelcoming. For the
@@ -67,10 +66,7 @@ is here, and Chrysalis themselves, there are no walls, or even watch
 towers. The settlement sits on a naked hill that has, I have learned,
 already had its share of unwelcome visitors.
 
-![An owl flying in the moonlight AI-generated content may be
-
-incorrect.](/Daggerdale/images/chapter7/image62.jpeg)
-
+![An owl flying in the moonlight](/Daggerdale/images/chapter7/image62.jpeg)
 But the view from the small hilltop is
 extraordinary, and no doubt one of the main reasons it was chosen for
 settlement in whatever decade that originally happened. From here, one

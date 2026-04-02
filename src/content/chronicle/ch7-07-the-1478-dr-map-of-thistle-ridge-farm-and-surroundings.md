@@ -5,7 +5,4 @@ chapterTitle: "Chapter Seven"
 order: 7
 ---
 
-![A map of a river Description automatically
-
-generated](/Daggerdale/images/chapter7/image24.png)
-
+![A map of a river](/Daggerdale/images/chapter7/image24.png)

@@ -103,8 +103,7 @@ Although much has changed in the last 100 or so years, that description
 still holds, with now some exceptions for large settlements, and the
 great forest of Cormanthor doing its best to hedge them in.
 
-![Deep
-Cormanthor](/Daggerdale/images/chapter7-begins/image15.jpeg){alt="A forest with trees and plants Description automatically generated"
+![Deep Cormanthor](/Daggerdale/images/chapter7-begins/image15.jpeg){alt="A forest with trees and plants Description automatically generated"
 width="3.5833333333333335in" height="2.6930555555555555in"}
 
 Daggerdale is nestled deep within Cormanthor, a forest which is now
@@ -233,8 +232,7 @@ battle with a villainous group of druids known as the Dark Garden, some
 of the highest-ranking positions in the dale are still held by the few
 remaining old men of the family.
 
-![A drawing of a rose and wheat Description automatically
-generated](/Daggerdale/images/chapter7-begins/image16.png)The Church of Chauntea is something you
+![A drawing of a rose and wheat](/Daggerdale/images/chapter7-begins/image16.png)The Church of Chauntea is something you
 will find in every dale, and Daggerdale is no exception. Every farm has
 a large flock of worshipers, and the Church's position in the dale is
 enshrined in the new Concordat that ensures it a voting seat in the
@@ -438,8 +436,7 @@ Yellow Abbeye Booke of Surveys and Measures, 1481 DR.
 
 ## Economy
 
-![A person in a straw hat digging a field Description automatically
-generated](/Daggerdale/images/chapter7-begins/image17.jpeg)Daggerdale has always been a place of tough
+![A person in a straw hat digging a field](/Daggerdale/images/chapter7-begins/image17.jpeg)Daggerdale has always been a place of tough
 people eking out a tough existence from the land. This is still largely
 true today, thought their security and profitability have both
 increased.
@@ -652,7 +649,6 @@ distribution of Dagger Falls. This is during towards the end of the
 Randal Morn and Freedom Riders era of the dale.
 
 ![](/Daggerdale/images/chapter7-begins/image18.png)
-
 #### The Harper Map (c. 1371 DR)
 
 This is a rare version of a map that depicts the substantial
@@ -668,7 +664,6 @@ agents who operated within the Falls during the final stage of the Zhent
 occupation. I found this map in Steele's folio.
 
 ![](/Daggerdale/images/chapter7-begins/image19.jpeg)
-
 #### The Yellow Abbeye Map (1482 DR)
 
 There are a few very good copies of this map in circulation, and I was
