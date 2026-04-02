@@ -5,7 +5,9 @@ chapterTitle: "Chapter Seven"
 order: 36
 ---
 
-![](/Daggerdale/images/chapter7/image47.jpeg)Dear Brother Vesuvian,\
+![](/Daggerdale/images/chapter7/image47.jpeg)
+
+Dear Brother Vesuvian,\
 \
 I trust this letter finds you in good health and high spirits (at least
 as high as one can manage while surrounded by the weight of ancient

@@ -9,7 +9,9 @@ order: 11
 specifically, including some references to game materials (such as
 prices in PHB's and that sort of thing).*
 
-## ![A map of a town Description automatically generated](/Daggerdale/images/chapter7/image6.jpeg)Dagger Falls Cathedral
+## ![A map of a town Description automatically generated](/Daggerdale/images/chapter7/image6.jpeg)
+
+Dagger Falls Cathedral
 
 The Cathedral is made up of 4 distinct portions;
 
@@ -190,7 +192,9 @@ orphan boys whom they have looked after for many years. There are 8 of
 them in total, the oldest being **Dorian Dale**, aged 26, who like his
 namesake is a capable swordsman, and a former Sunblade.
 
-### ![A person in a red dress Description automatically generated](/Daggerdale/images/chapter7/image7.jpeg)The Cassimars
+### ![A person in a red dress Description automatically generated](/Daggerdale/images/chapter7/image7.jpeg)
+
+The Cassimars
 
 There are three remaining Cassimars in the Dales, and they all live at
 the Tower. The eldest is **Renley Cassimar**, 75 years old, and father
@@ -210,8 +214,11 @@ abroad, and keeps her own messenger doves which support her many
 correspondents around the Dales.
 
 ![A person with long red hair wearing a red dress Description
+
 automatically
-generated](/Daggerdale/images/chapter7/image8.jpeg)The youngest Cassimar is **Coventina**,
+generated](/Daggerdale/images/chapter7/image8.jpeg)
+
+The youngest Cassimar is **Coventina**,
 the niece of Lilly. Coventina's father was Lilly's older brother,
 **Caedren**. Her mother died in child birth, and Caedren raised
 Coventina at the tower with the rest of his family. When she was old
@@ -274,6 +281,7 @@ nearby smithies, musicians plying their trade, and the clatter of wagons
 on the flagstones. Haverstone's
 
 ![A map of a town Description automatically
+
 generated](/Daggerdale/images/chapter7/image9.jpeg)
 
 Bakery provides the principal olfactory tone, but smells of many food
@@ -987,8 +995,11 @@ Embassy.
 ### Arrival at the Embassy
 
 ![A person with a beard and mustache wearing glasses and holding a bag
+
 Description automatically
-generated](/Daggerdale/images/chapter7/image10.jpeg)For those characters arriving at the
+generated](/Daggerdale/images/chapter7/image10.jpeg)
+
+For those characters arriving at the
 Embassy for the first time;
 
 *Arrival at the Embassy is through a blocky entrance room, about 20' on

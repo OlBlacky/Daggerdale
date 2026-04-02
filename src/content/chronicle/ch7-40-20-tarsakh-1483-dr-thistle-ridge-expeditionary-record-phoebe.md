@@ -12,7 +12,9 @@ Though we hold the Tower, we are constantly tested by the Yellow Tooth,
 and the nerves of some of the men are frayed from the labour of
 cleansing the basements.
 
-![](/Daggerdale/images/chapter7/image54.jpeg)Probing attacks of Yellow Tooth come
+![](/Daggerdale/images/chapter7/image54.jpeg)
+
+Probing attacks of Yellow Tooth come
 regularly as soon as the sun is behind the mountains, and they don't
 stop until Magistrate Dale is delivering Prime. In fact, I think she has
 challenged the faith of some of the non-Amaunatori with her prayers; as

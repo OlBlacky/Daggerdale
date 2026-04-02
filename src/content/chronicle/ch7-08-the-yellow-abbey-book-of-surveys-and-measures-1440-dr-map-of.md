@@ -6,5 +6,6 @@ order: 8
 ---
 
 ![A map of a town Description automatically
+
 generated](/Daggerdale/images/chapter7/image25.png)
 

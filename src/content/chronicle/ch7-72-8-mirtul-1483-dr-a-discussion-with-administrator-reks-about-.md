@@ -18,7 +18,9 @@ of selfless heroism. Before I could so much as scan the room for
 prospects, however, I found myself caught up in a current not of my own
 choosing.
 
-![](/Daggerdale/images/chapter7/image67.png)"Very good, Master Alavandor," a blonde
+![](/Daggerdale/images/chapter7/image67.png)
+
+"Very good, Master Alavandor," a blonde
 slip of a serving girl---Hannah, I learned---ran up to me and curtsied
 as I crossed the threshold. Fourteen summers at most, but she had the
 poise and curves of a woman twice her age and knew exactly what to do
@@ -30,7 +32,9 @@ an even younger waif perched on the patio railing, who nimbly leapt from
 her perch to race off through the market and toward Loedegan Close like
 her skirts were on fire.
 
-![](/Daggerdale/images/chapter7/image67.png)On those occasions when it's not his worst
+![](/Daggerdale/images/chapter7/image67.png)
+
+On those occasions when it's not his worst
 enemy, Waukeen knows, curiosity is a merchant's best friend, so I
 followed Hannah up the stairs. I'll confess the view from behind didn't
 make me regret my decision. On the upper landing, she directed me to a
@@ -118,7 +122,9 @@ enough to be heard in Sembia, and I was just reaching for the
 trout---manners be damned, I'd earned it sitting here like a trained
 dog---when the door burst open again.
 
-![](/Daggerdale/images/chapter7/image68.jpeg)This time it was the Administrator
+![](/Daggerdale/images/chapter7/image68.jpeg)
+
+This time it was the Administrator
 himself, decked out in a smart grey woollen suit with pristine white
 gloves, his silvered hair slicked back like he'd just stepped out of a
 Cormyrean portrait. He had this expression of mock surprise and delight
@@ -143,7 +149,9 @@ hand while the other supported his arching back in the most dramatic
 pose I'd seen since the last time I watched the street players in
 Saerloon.
 
-![](/Daggerdale/images/chapter7/image68.jpeg)"By all the devils in Hell, have they put a
+![](/Daggerdale/images/chapter7/image68.jpeg)
+
+"By all the devils in Hell, have they put a
 troll's chambre pot on my table?" he wailed at the ceiling, frozen in
 his pose of agony. "The smell of it could soften the morning engorgement
 of an incubus, and it looks worse than it smells! Children...!" And

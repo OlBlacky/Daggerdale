@@ -381,6 +381,7 @@ entrance to Kahlmadrid is thoroughly closed.
 With the noise likely to draw attention, we decided that, despite our
 fatigue, we'd have to keep moving. We marched all night, and found
 ourselves back at Fergy's Hole mid-day on the 29<sup>th</sup>.
+
 ![](/Daggerdale/images/chapter7-begins/image14.jpeg)
 
 The Devil Azbael

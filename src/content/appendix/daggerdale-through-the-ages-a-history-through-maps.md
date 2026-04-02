@@ -42,6 +42,7 @@ and a new smaller bailey in the north west corner of the town.
 
 A legend follows the map below.\
 \
+
 ![](/Daggerdale/images/chapter7/image18.jpeg)
 
 ### Map Features

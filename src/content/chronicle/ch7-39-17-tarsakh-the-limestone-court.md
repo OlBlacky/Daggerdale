@@ -111,7 +111,9 @@ appears that they are sitting in silence, though Jeska comes away much
 later with a trove of intelligence to share with her company. This is
 what she learned;
 
-![](/Daggerdale/images/chapter7/image52.jpeg)Calix has been here for 30 years. She would
+![](/Daggerdale/images/chapter7/image52.jpeg)
+
+Calix has been here for 30 years. She would
 be considered 'young' in her realm, and indeed she could be mistaken for
 a 20-year old halfling girl, if not for her wings. She is from the First
 World (the Fey) and was drawn here by the people settling the area, much
@@ -142,7 +144,9 @@ she refused to help, Dol'Rullian imprisoned her, took control of the
 Court, and began his campaign against the people of Greenwood. His
 Nuglubs were given leave to sew ![A person sitting on a tree
 AI-generated content may be
-incorrect.](/Daggerdale/images/chapter7/image53.jpeg)torment as they saw fit, and to use the
+incorrect.](/Daggerdale/images/chapter7/image53.jpeg)
+
+torment as they saw fit, and to use the
 Grimples as they wished. Vainya, of course, established The Blue Glade,
 from where she hoped to wage a campaign of trickery and subtle violence,
 before she was stopped by Chrysalis.

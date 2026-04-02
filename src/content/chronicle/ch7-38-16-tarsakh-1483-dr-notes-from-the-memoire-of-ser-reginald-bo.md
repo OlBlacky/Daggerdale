@@ -5,7 +5,9 @@ chapterTitle: "Chapter Seven"
 order: 38
 ---
 
-![](/Daggerdale/images/chapter7/image48.jpeg)The pen is mightier than the sword! Ha, but not the
+![](/Daggerdale/images/chapter7/image48.jpeg)
+
+The pen is mightier than the sword! Ha, but not the
 axe! Still, here I am, waging what I hope will be battle from beyond the
 grave. For though my body will fail, hopefully in glorious battle with
 axe in hand, these words may live on, and hopefully lend courage to
@@ -56,7 +58,9 @@ old ruins.
 A council was struck immediately in the command tent, and preparations
 made for the Sun Blades to garrison The Tower in force the next day.
 
-## ![](/Daggerdale/images/chapter7/image49.jpeg)Andi Autumnhill 
+## ![](/Daggerdale/images/chapter7/image49.jpeg)
+
+Andi Autumnhill 
 
 Late in the morning of the 14<sup>th</sup>, the halfling girl, Andi Autumnhill
 (who's family operates the Inn in Gryphons Farm -- yes, I still use the
@@ -133,7 +137,9 @@ for intelligence on the thing. I told him we could go and knock it down
 and be done worrying about it, but I don't think he or the Captain
 support my resolution.
 
-## ![](/Daggerdale/images/chapter7/image50.jpeg)The Blue Glade & The Fey Courts
+## ![](/Daggerdale/images/chapter7/image50.jpeg)
+
+The Blue Glade & The Fey Courts
 
 Shortly after lunch we had the second of two Fey-Thing raids, this time
 much worse. Ms. Autumnhill lost a few more of her hens to what turned

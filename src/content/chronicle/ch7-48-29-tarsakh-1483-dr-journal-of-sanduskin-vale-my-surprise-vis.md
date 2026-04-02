@@ -30,7 +30,9 @@ was full by the time we made Gribbons, and he sat a while on one of the
 wagons while we turned north, heading through the soon-to-be-golden
 fields of that fine farm.
 
-![](/Daggerdale/images/chapter7/image61.jpeg)I think if not for the nature of my
+![](/Daggerdale/images/chapter7/image61.jpeg)
+
+I think if not for the nature of my
 familiar, I would have found the forest daunting. Even with most of the
 trees still abud, and mostly naked, it is dark and unwelcoming. For the
 most part. On the other hand, we passed by a camp of men, a mix of
@@ -66,7 +68,10 @@ towers. The settlement sits on a naked hill that has, I have learned,
 already had its share of unwelcome visitors.
 
 ![An owl flying in the moonlight AI-generated content may be
-incorrect.](/Daggerdale/images/chapter7/image62.jpeg)But the view from the small hilltop is
+
+incorrect.](/Daggerdale/images/chapter7/image62.jpeg)
+
+But the view from the small hilltop is
 extraordinary, and no doubt one of the main reasons it was chosen for
 settlement in whatever decade that originally happened. From here, one
 can look to the west and see the majestic Desertsmouth Mountains, and
@@ -132,7 +137,9 @@ informed me of the following troop movements;
   many camps, with a great concentration around the largest standing
   building in the centre of town
 
-![](/Daggerdale/images/chapter7/image63.jpeg)Of the host coming out of the swamp, Ovee
+![](/Daggerdale/images/chapter7/image63.jpeg)
+
+Of the host coming out of the swamp, Ovee
 knew we were chiefly interested. He risked getting closer to them, to
 get as much intelligence as possible, and learned the following;
 

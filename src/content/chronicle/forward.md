@@ -116,7 +116,9 @@ from, how reliable the source might be, and so on). I have given some
 commentary on the more interesting parts of the chronicle, even though I
 was advised not to.
 
-![](/Daggerdale/images/chapter7-begins/image2.png)If you are reading this out of pure
+![](/Daggerdale/images/chapter7-begins/image2.png)
+
+If you are reading this out of pure
 academic interest, I hope you'll enjoy every word at a leisurely pace.
 If, on the other hand, you are reading this to prepare for conflict in
 Daggerdale, know you this; I haven't left anything in this account that

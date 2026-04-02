@@ -73,6 +73,7 @@ best to support Jeska and my friends in Chrysalis, and will remain
 vigilant against the Enemy Within.
 
 ![A screenshot of a video game Description automatically
+
 generated](/Daggerdale/images/chapter7/image44.jpeg)
 
 ## Partnership with the Standing Stone League
@@ -87,7 +88,9 @@ Xx
 
 Xx
 
-## ![A drawing of a person Description automatically generated](/Daggerdale/images/chapter7/image45.jpeg)The Pledge of Lt. Forge Farmountain
+## ![A drawing of a person Description automatically generated](/Daggerdale/images/chapter7/image45.jpeg)
+
+The Pledge of Lt. Forge Farmountain
 
 xx
 

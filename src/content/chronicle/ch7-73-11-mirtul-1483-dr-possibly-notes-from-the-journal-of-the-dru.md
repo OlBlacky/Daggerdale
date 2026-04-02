@@ -14,7 +14,9 @@ start with a description of the terrible place we're trapped in,
 followed by a short accounting of the day's events, and conclude with a
 bit about myself, my companions, and our current predicament.
 
-## ![](/Daggerdale/images/chapter7/image69.png)The Shadowfell
+## ![](/Daggerdale/images/chapter7/image69.png)
+
+The Shadowfell
 
 Despite what many think, the Shadowfell is not complete darkness, but
 rather a dim, obscene and twisted version of our own world. It is dark,
@@ -76,6 +78,7 @@ place, though they are less well organized and armed, they are
 considerably more difficult to kill or capture, as they move from
 shadow-to-shadow with ease, and their harassments, though not
 overwhelming, fatal or concerted, are a constant nuisance.
+
 ![](/Daggerdale/images/chapter7/image70.jpeg)
 
 Mean-eyed black birds glide noiselessly through the dead and twisted
@@ -114,7 +117,9 @@ We are lost, but not hopelessly so.
 
 ## The Day's Events
 
-![](/Daggerdale/images/chapter7/image71.jpeg)As I've said, I awoke under the care of
+![](/Daggerdale/images/chapter7/image71.jpeg)
+
+As I've said, I awoke under the care of
 Chrysalis, in a ruined cottage in this realm's version of Thistle Ridge.
 Chrysalis had fought with Loki in her subterranean lair, and
 unfortunately (for them, if not for me) followed her into a trap. While
@@ -163,6 +168,7 @@ of the similarities between this terrible place, and a report he read of
 the hauntings in Thistle Ridge. He recited from his notes the following;
 
 ![](/Daggerdale/images/chapter7/image72.jpeg) *"\...I would have said we entered the
+
 Shadowfell, if not for the description of the assault of the shadowy
 fiend and the harrowing tale of the Oakbough girl and her partner at the
 Inn. We weren't in the Shadowfell, but rather it was leaking into our
@@ -189,7 +195,9 @@ shadow passed overhead, and then settled down heavily on the roof of the
 Academy, great wings beating motes of snow and shadow along with
 loosened roof tiles every direction.
 
-![](/Daggerdale/images/chapter7/image73.jpeg)"Gelzamael" was the whispered warning from
+![](/Daggerdale/images/chapter7/image73.jpeg)
+
+"Gelzamael" was the whispered warning from
 the capable hedge wizard, clutching something small in his hand that he
 looked to many times, while examining the dragon.
 
@@ -269,7 +277,9 @@ have thought we went a full mile, but looking back, the ruins were still
 nearby, perhaps a quarter mile off, now vanishing in the last cold and
 pale light of the obscene mockery of the sun.
 
-![](/Daggerdale/images/chapter7/image74.jpeg)"This place is treacherous, a giant trap,
+![](/Daggerdale/images/chapter7/image74.jpeg)
+
+"This place is treacherous, a giant trap,
 mum!" Ser Rowan complained to Mari, as we all looked crestfallen at how
 little progress we had made. "But we must keep going. Gelzamael will
 still smell our blood from this distance. Through the darkness, let's
@@ -313,7 +323,9 @@ carries a grief that I cannot fathom, and this place sharpens every
 wound until composure itself becomes a casualty. I bear him no ill will
 for it.
 
-![](/Daggerdale/images/chapter7/image75.jpeg)We continued on, for how long it is
+![](/Daggerdale/images/chapter7/image75.jpeg)
+
+We continued on, for how long it is
 impossible to say; there are no stars wheeling overhead, no moon either.
 There is just complete blackness, and our slow advance which defies our
 understanding of space and motion. Our feeble lights, which Chrysalis
@@ -352,7 +364,9 @@ direction, harassing us as the Captain urged us onward, imploring Jasper
 to keep us going in the right direction while the rest of Chrysalis
 fought a rolling battle with the cruel fauna of this unholy place.
 
-![](/Daggerdale/images/chapter7/image76.jpeg)This attack was more focused and determined
+![](/Daggerdale/images/chapter7/image76.jpeg)
+
+This attack was more focused and determined
 than the harassments we'd endured in Thistle Ridge. The rats would not
 relent, and we slew many. The crows too dove and dove again, attempting
 to blind us with their sharp beaks, and those too we left broken on the
@@ -392,6 +406,7 @@ fact. Its fate carved in stone by her hand, the Shadow Goblin was tested
 and failed.
 
 ![](/Daggerdale/images/chapter7/image77.jpeg) "No, Elf-bitch! You kill me! I will not
+
 touch flowers or serve your children! You kill me, or she will...yes,
 she will!"
 
@@ -438,7 +453,10 @@ take in her men one by one. Each carried wounds from myriad battles they
 had fought since stepping into the bowels of Thistle Ridge, before my
 rescue, and ever since. Heavier than their wounds, and the fatigue of
 constant flight,
-![](/Daggerdale/images/chapter7/image78.jpeg)was the despair of the place. Even the
+
+![](/Daggerdale/images/chapter7/image78.jpeg)
+
+was the despair of the place. Even the
 indefatigable matronly halfling was squatting low to the ground, her
 head in her hands, and I think she was weeping. The boys were breathing
 heavy, the fog of their breath lolling about the air unnaturally, their
@@ -507,11 +525,16 @@ the Shadowfell paid for with the blood of the victim. I was in Loki's
 chambre for several days before Chrysalis again stormed in, this time to
 find Loki supported by other Shadowvar. Of course, that was inadequate
 defense
-![](/Daggerdale/images/chapter7/image79.jpeg)against Chrysalis, but it may have all been
+
+![](/Daggerdale/images/chapter7/image79.jpeg)
+
+against Chrysalis, but it may have all been
 part of the trap I am currently in; for Monarch chased after Loki,
 mistaking prey and predator. And here we are.
 
-![](/Daggerdale/images/chapter7/image80.jpeg)Before I am forced to retire my pen for the
+![](/Daggerdale/images/chapter7/image80.jpeg)
+
+Before I am forced to retire my pen for the
 night, I should record that I seem to be familiar with a good many
 things I have no direct recollection of; the cities of the Moonsea (some
 of them now ruins, though I recall them when they weren't), how to read

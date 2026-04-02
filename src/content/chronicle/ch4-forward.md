@@ -16,6 +16,7 @@ of Netheril for some time), this chapter is about the villains they
 worked with to attack the dale from within.
 
 ![A painting of a city with mountains in the background Description
+
 automatically
 generated](/Daggerdale/images/chapter7-begins/image5.jpeg) This story is mostly about the religious struggle
 between competing faiths in the area. Amaunator has been the dominant

@@ -14,7 +14,9 @@ with joy and optimism. For here we are, at the wild edge of
 civilization, trying to carve an existence out of a forest that seems
 determined to repel us. And this morning we ate fresh bread!
 
-![](/Daggerdale/images/chapter7/image59.jpeg)I no longer use the term 'camp' for our
+![](/Daggerdale/images/chapter7/image59.jpeg)
+
+I no longer use the term 'camp' for our
 settlement. The carpenters and masons stood up the walls of the central
 farmhouse quickly, and there is already a shingled roof over it all.
 With 2 floors, we have more than enough room to move in all the soldiers

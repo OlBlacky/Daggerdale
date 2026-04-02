@@ -10,7 +10,9 @@ Embassy of the Elven Court in Dagger Falls, did assemble during and
 shortly after Ambassador Monarch met in the Mythral'Telanor, at the
 gracious request of the Ambassador, and stored herein for posterity.*
 
-![](/Daggerdale/images/chapter7/image65.jpeg)Around five bells of the evening,
+![](/Daggerdale/images/chapter7/image65.jpeg)
+
+Around five bells of the evening,
 Ambassador Monarch ('Monarch' or 'Jeska') summoned me to the basement,
 where she had opened the doors to the Mythral'Telanor. I have only been
 in this chambre once before, and paused. She gave a slight nod,

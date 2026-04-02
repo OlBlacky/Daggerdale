@@ -37,8 +37,11 @@ even when our limited intellect perceives them (incorrectly) as
 mercurial and capricious.
 
 ![A drawing of a knight holding a spear and shield Description
+
 automatically
-generated](/Daggerdale/images/chapter7/image35.jpeg)I was attached to the 18<sup>th</sup> Company 1<sup>st</sup>
+generated](/Daggerdale/images/chapter7/image35.jpeg)
+
+I was attached to the 18<sup>th</sup> Company 1<sup>st</sup>
 Platoon, "Task Masters". This is the Command Platoon of the reserve
 company, and we were led by the company captain himself, Dexter Broad (I
 have included a sketch of him to the side), a stout man from the eastern
@@ -101,7 +104,10 @@ My Old Friend
 The Account of Magistrate Invictus
 
 ![A person writing on a paper Description automatically
-generated](/Daggerdale/images/chapter7/image36.jpeg)"The first sign of trouble came on the
+
+generated](/Daggerdale/images/chapter7/image36.jpeg)
+
+"The first sign of trouble came on the
 evening of the Autumnal Equinox of 1481. It had been raining for two
 days, and a thick fog was low over the river and wafting through the
 valley. On a clear day this time of year, we can see the smoke from some
@@ -317,7 +323,10 @@ anyone that knew anyone who knew a thing about it; who built it, when,
 or for whom?
 
 ![A castle on a mountain Description automatically
-generated](/Daggerdale/images/chapter7/image37.jpeg)We made a camp in the old caravan staging
+
+generated](/Daggerdale/images/chapter7/image37.jpeg)
+
+We made a camp in the old caravan staging
 area, which is already overgrown with trees more than ten feet tall in
 places, the ruin looming over us menacingly. As we struck camp, and our
 scouts began to pick their way up the rubble-strewn switchback trail
@@ -781,8 +790,11 @@ into ours and may indeed be the tortured spirits of the innocents that
 are sacrificed.
 
 ![A drawing of a demon with a person in a white robe Description
+
 automatically
-generated](/Daggerdale/images/chapter7/image38.jpeg)They have the following qualities which
+generated](/Daggerdale/images/chapter7/image38.jpeg)
+
+They have the following qualities which
 hunters of such should be aware;
 
 > They are impervious to all the usual assaults and maladies associated
@@ -863,6 +875,7 @@ Mgt. Zoderick Winters
 7 Hammer, 1446 DR
 
 ![A drawing of a demon and a person Description automatically
+
 generated](/Daggerdale/images/chapter7/image39.jpeg)
 
 A note you found in your grandmother's things...
@@ -951,6 +964,7 @@ will come and visit your brother and his kin, now adorned in our simple
 linen wraps like the locals, whom I've drawn you a picture of below.
 
 ![Mulhorand \| Forgotten Realms Wiki \|
+
 Fandom](/Daggerdale/images/chapter7/image40.png)
 
 You will find us all at Immotep thokari (that's 'villa') on Kossur m'pha

@@ -57,7 +57,9 @@ seen to, she was heard to address the crowd with the following words;
 
 > ![A person with red hair and braids holding her fists up Description
 > automatically
-> generated](/Daggerdale/images/chapter7/image41.jpeg){width="2.3493055555555555in"
+> generated](/Daggerdale/images/chapter7/image41.jpeg)
+
+{width="2.3493055555555555in"
 > height="3.11875in"}*I am Jeska Monarch, assumed ambassador to the
 > embassy here in your town. I am not that. I am in my culture just a
 > young elf, a mere 270 years of age sent here by my own superiors for
@@ -96,7 +98,9 @@ days later, I can see the Chaunteans planting a great many flowers and
 fruit trees at that site, while Amaunatori Magistrates are measuring the
 grounds to erect a monument to the heroes and unity that won the day.
 
-## ![A drawing of a person Description automatically generated](/Daggerdale/images/chapter7/image42.jpeg)Nemia Ul-Nishaadrhi -- The Ghost Hunter Meets with The Hedge Wizard
+## ![A drawing of a person Description automatically generated](/Daggerdale/images/chapter7/image42.jpeg)
+
+Nemia Ul-Nishaadrhi -- The Ghost Hunter Meets with The Hedge Wizard
 
 The afternoon following the attack in the arena is something of a blur
 now, trying to remember it a few days later. There was so much going on,
@@ -215,7 +219,9 @@ by pleasantly inviting the guests to their rooms or the door, and then
 exiting themselves after bowing and exchanging some small gifts
 (something the little folk are fond of, and the rest of us would do well
 to ![A person in a garment sleeping in a chair Description automatically
-generated](/Daggerdale/images/chapter7/image43.jpeg)emulate). The noise of the boots and shoes
+generated](/Daggerdale/images/chapter7/image43.jpeg)
+
+emulate). The noise of the boots and shoes
 and well-wishes and farewells gave way to a tremendous snoring, issuing
 from the person of Ser Rowan, who was presently asleep in a chair by the
 fire, with a smile to match his girth.

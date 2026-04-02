@@ -145,6 +145,9 @@ group should have assigned a more capable task force to this objective. 
 Be that as it may, here are the stories of these three teams...
 
 ![Daggerdale Map - Circa
-1364](/Daggerdale/images/chapter7-begins/image4.gif){alt="A map of a forest Description automatically generated"
+
+1364](/Daggerdale/images/chapter7-begins/image4.gif)
+
+{alt="A map of a forest Description automatically generated"
 width="6.5in" height="4.498611111111111in"}
 

@@ -46,7 +46,10 @@ younger sister, Senthia (married to a Clarandal) took over mayorship.
 She is slated to fill the role until Sheildmeet.*
 
 ![A shield with a flower and leaves Description automatically
-generated](/Daggerdale/images/chapter7/image20.jpeg)**Population:** 444
+
+generated](/Daggerdale/images/chapter7/image20.jpeg)
+
+**Population:** 444
 
 **Non-Humans:** 12 halflings (two families)
 
@@ -157,7 +160,9 @@ barrels, crates, and providing shoeing for mounts.
 Milly (halfling wife of Whistle) grinds most of the flower for the
 settlement, and her establishment provides much of the traffic that ![A
 person and person in a fish shop Description automatically
-generated](/Daggerdale/images/chapter7/image21.png)benefits traders set up in the Court
+generated](/Daggerdale/images/chapter7/image21.png)
+
+benefits traders set up in the Court
 
 **The Fish Market** -- not really named this, but rather just called
 that, this is a small collection of tents and huts where the wives of a
@@ -340,7 +345,10 @@ and priests assure me is not contagious. Their children all seem free of
 the condition.
 
 ![A collection of flowers and leaves Description automatically
-generated](/Daggerdale/images/chapter7/image22.jpeg)**Sulphonti's (Herbalist)** -- Now operated
+
+generated](/Daggerdale/images/chapter7/image22.jpeg)
+
+**Sulphonti's (Herbalist)** -- Now operated
 by the daughters of the original Family Medic that accompanied the
 Alavandor's to the Dales and started this business, Sulphonti's is a
 peerless herbalist supply, the envy of many colleagues throughout the
@@ -398,6 +406,7 @@ myriad fowl. The lodge is also a staging point for the Foresters when
 needed.
 
 ![A dirt road leading to a row of trees Description automatically
+
 generated](/Daggerdale/images/chapter7/image23.jpeg) **The Apple Glade** -- a mile and a half
 north of the town is the source of Thistle Ridge's most voluminous
 export, apples. Though more than a dozen species are cultivated here,

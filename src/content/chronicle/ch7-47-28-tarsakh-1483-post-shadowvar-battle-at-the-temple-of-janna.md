@@ -46,7 +46,9 @@ didst not flinch, nor falter. Thine heart is unblemished, thy courage
 like unto the greatest knights and paladins of old. To serve beside thee
 is an honour I shall not forget."
 
-![](/Daggerdale/images/chapter7/image60.jpeg)The ritual takes nearly an hour to
+![](/Daggerdale/images/chapter7/image60.jpeg)
+
+The ritual takes nearly an hour to
 complete, and it is a time of great tension. Though you have hunted the
 last of the Shadowvar and their tainted-goblin minions, you are not sure
 that you are safe here. There is a lingering sense of dread, and only
