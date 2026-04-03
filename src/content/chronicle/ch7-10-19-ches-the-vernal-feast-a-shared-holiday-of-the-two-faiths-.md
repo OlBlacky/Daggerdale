@@ -166,60 +166,38 @@ pressed against the Burial Stones of the departed, muttering to himself.
 On this 19<sup>th</sup> of Ches, 1483, he was singing the following song;
 
 > There are spirits spirits spirits one-two-three;
->
 > Small but great in wrath and sad betrayal,
->
 > Their tragic story is the key to set them all and others free,
->
 > And expose an ancient and false portrayal.
 >
 > There are maidens maidens maidens one-two-three;
->
 > Their warm breath in the frosty morn a haze,
->
-> They sing and dance and tempt the boys with all they have and little
-> poise,
->
+> They sing and dance and tempt the boys with all they have and little poise,
 > To consummate in less than ten and fifty days.
 >
 > There are shadows shadows shadows one-two-three;
->
 > They are strongest in the west and bend to thee
->
 > These shadows cast a form that stirs a mighty storm
->
 > That darkens river, ridge and road and sea.
 >
 > There are mothers mothers mothers one-two-three
->
 > Whose husbands toil in the field and the bough.
->
 > They have welcoming rear-ends and sons with lonely friends,
->
 > Who come and go before the husbands turn to plough.
 >
 > There are devils devils devils one-two-three;
->
 > Men think that they have got them by the tail,
->
 > We laugh while they are weeping but they dance while we are sleeping,
->
 > And in the cold light of day they may prevail.
 >
 > There are nanas nanas nanas one-two-three;
->
 > Whose granddaughters have husbands tall and strong.
->
 > These men blow out the candles, making more fun than broom handles,
->
 > Before returning to their young wives legs so lithe and long.
 >
 > There are monsters monsters monsters one-two-three;
->
 > Who dreamt a man who doesn't know exactly how to seam,
->
 > There's an eye that doesn't close while all the others doze,
->
 > And I think we all might be a monster's dream.
 
 I might be thought to be taking advantage of the opportunity to put a
