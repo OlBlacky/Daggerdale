@@ -51,7 +51,7 @@ copy by Br. Remelius Bright, Y.A.A. 1466.
 Winters, 1445 DR\"
 
 \"Musings on the Struggle of Sembia with Prince Brennus Tanthul, by
-Amery Voskul, 1410 DR, with foreword updated by Br. neus Hoetmer, 1440
+Amery Voskul, 1410 DR, with foreword updated by Br. Phinneus Hoetmer, 1440
 DR\"
 
 \"An Amnian Bride\'s Primer\" date and author unknown.
