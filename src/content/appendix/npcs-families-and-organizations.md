@@ -96,8 +96,8 @@ This family tree was composed by Magistrate Blaze Whitegate with the
 help of Clerk Daphne Dale, in late 1440 DR. Submitted to the Yellow
 Abbey Archives in 1441 DR after the tragedy at Thistle Ridge Farm.
 
-- **Alvund** (b. in Sembia, 1349 DR, d. 1430 in Thistle Ridge of natural
-  causes) - *Senthia (nee Maeliticus -- b. ? d. before coming to
+- **Alvund** (b. in Sembia, 1349 DR, d. 27 Ches 1439 in Thistle Ridge
+  of a sudden winter illness) - *Senthia (nee Maeliticus -- b. ? d. before coming to
   Daggerdale, first wife of Alvund, no known children) - Abrecia (nee
   Maeliticus -- b. ? d. before coming to Daggerdale, second wife of
   Alvund, no known children)* - **Aisling** (nee Maeliticus -- b.
